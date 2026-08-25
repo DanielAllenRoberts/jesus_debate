@@ -16,13 +16,17 @@ supports_stack: false
 
 # C-XXX — Title
 
+## Explain for the reader
+
+*(one sentence: what this claim asserts · one sentence: why it matters for the [[Christianity Truth Stack]] / probability story)*
+
 ## Statement
 
 One precise proposition.
 
 ## Why it matters
 
-Link to [[Christianity Truth Stack]] or counter-claim role. Related opposing claim (if any): [[C-XXX]]
+Link to [[Christianity Truth Stack]] or counter-claim role. Related opposing claim (if any): [[C-XXX|human label]] — *one-line gloss of the opposing point*
 
 ## Tier proposal
 
@@ -31,17 +35,17 @@ Consensus / Neutral lock notes:
 
 ## Arguments for
 
-- [[A-PRO-XXX]] *(wikilink required — full note title OK)*
+- [[A-PRO-XXX|human label]] — *one-line gloss of the argument’s point*
 
 ## Arguments against
 
-- [[A-ANTI-XXX]] *(wikilink required; include via opposing claim if needed)*
+- [[A-ANTI-XXX|human label]] — *one-line gloss of the argument’s point*
 
 ## Key sources
 
-- [[S-XXX]] *(wikilink every load-bearing source note)*
+- [[S-XXX|source title]] — *one-line gloss of what this source is used to show*
 
-See also [[Media Index]] · [[Debate Graph]] · [[All Claims Index]] · [[Arguments Index]]
+See also [[Media Index]] · [[Debate Graph]] · [[All Claims Index]] · [[Arguments Index]] · [[Writing for Humans]]
 
 ## Score
 

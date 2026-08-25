@@ -11,28 +11,31 @@ side: anti
 
 # R-009 — Early high Christology can be post-Easter invention
 
+**In short:** Rebuts [[A-PRO-008|Early creed + high Christology at origins]] on [[C-003|Jesus Son of God died for sins]]. Early high Christology can still be a post-Easter invention by the community rather than Jesus’ own teaching or a straight line to Nicene dogma.
+
 ## Targets
 
-- Argument: [[A-PRO-008]]
-- Claim: [[C-003]]
-- Sources: [[S-039]], [[S-025]]
+- Argument: [[A-PRO-008|Early creed + high Christology at origins]]
+- Claim: [[C-003|Jesus Son of God died for sins]]
+- Sources: [[S-039|Hurtado, Early High Christology / Lord Jesus Christ]], [[S-025|Ehrman, How Jesus Became God]]
+
 
 ## Attack
 
 Type: `evidence`
 
-Hurtado-style early devotion ([[S-039]]) shows the *movement* exalted Jesus early. [[A-ANTI-004]] via [[S-025]] argues that still places the decisive innovation after Jesus’ death. “At origins” of Christianity ≠ “taught by the historical Jesus.” Creedal “died for our sins” language ([[S-037]]) is early church theology; it does not automatically authenticate Nicene Sonship or penal/substitutionary packages as Jesus’ own claim.
+Hurtado-style early devotion ([[S-039|Hurtado, Early High Christology / Lord Jesus Christ]]) shows the *movement* exalted Jesus early. [[A-ANTI-004|Christology developed after Jesus]] via [[S-025|Ehrman, How Jesus Became God]] argues that still places the decisive innovation after Jesus’ death. “At origins” of Christianity ≠ “taught by the historical Jesus.” Creedal “died for our sins” language ([[S-037|Habermas, Experiences of the Risen Jesus]]) is early church theology; it does not automatically authenticate Nicene Sonship or penal/substitutionary packages as Jesus’ own claim.
 
-Councils ([[S-089]], [[S-090]]) remain evidence that metaphysical identity stayed contested centuries later. Anti allows early exaltation while denying Pro’s continuity thesis for [[C-003]].
+Councils ([[S-089|First Council of Nicaea]], [[S-090|First Council of Constantinople / Creed]]) remain evidence that metaphysical identity stayed contested centuries later. Anti allows early exaltation while denying Pro’s continuity thesis for [[C-003|Jesus Son of God died for sins]].
 
 ## Sources (required)
 
-- [[S-025]] — Ehrman, *How Jesus Became God*
-- [[S-039]] — Hurtado
-- [[S-037]] — creed materials
-- [[S-089]] — Nicaea
-- [[S-090]] — Constantinople
+- [[S-025|Ehrman, How Jesus Became God]] — Ehrman, *How Jesus Became God*
+- [[S-039|Hurtado, Early High Christology / Lord Jesus Christ]] — Hurtado
+- [[S-037|Habermas, Experiences of the Risen Jesus]] — creed materials
+- [[S-089|First Council of Nicaea]] — Nicaea
+- [[S-090|First Council of Constantinople / Creed]] — Constantinople
 
 ## Effect sought
 
-Keep [[C-003]] Contested; support Strengthened pressure on [[C-A003]] as Supporting claim if Neutrals agree discontinuity is well evidenced.
+Keep [[C-003|Jesus Son of God died for sins]] Contested; support Strengthened pressure on [[C-A003|Nicene Christianity later construction]] as Supporting claim if Neutrals agree discontinuity is well evidenced.

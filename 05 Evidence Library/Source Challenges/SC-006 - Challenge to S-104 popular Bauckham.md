@@ -9,25 +9,28 @@ round: R03
 
 # SC-006 — Limit S-104 as primary
 
+**In short:** Limits [[S-104|CT popularization of Bauckham]] as a primary for [[C-003|Jesus Son of God died for sins]] / [[A-PRO-014|Bauckham divine identity Christology]]. **Grounds:** popular magazine presentation—corroborate via [[S-103|Bauckham, Jesus and the God of Israel]].
+
 ## Target source
 
-[[S-104]]
+[[S-104|CT popularization of Bauckham]] — challenged for how it is weighted in scoring, not merely for existing.
+
 
 ## Claims / arguments affected
 
-[[C-003]] · [[A-PRO-014]]
+[[C-003|Jesus Son of God died for sins]] · [[A-PRO-014|Bauckham divine identity Christology]]
 
 ## Grounds
 
-Christianity Today popularization — corroborate via [[S-103]], not standalone.
+Christianity Today popularization — corroborate via [[S-103|Bauckham, Jesus and the God of Israel]], not standalone.
 
 ## Supporting citations
 
-[[S-103]]
+[[S-103|Bauckham, Jesus and the God of Israel]]
 
 ## Requested remedy
 
-Limit use / require [[S-103]] corroboration.
+Limit use / require [[S-103|Bauckham, Jesus and the God of Israel]] corroboration.
 
 ## Resolution
 

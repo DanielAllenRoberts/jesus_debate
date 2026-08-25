@@ -12,14 +12,18 @@ viewpoint: historical
 
 # A-PRO-XXX — Title
 
+## Explain for the reader
+
+*(one sentence: what this argument tries to show · one sentence: why that matters for the target claim / stack / probability)*
+
 ## Claim targeted
 
-[[C-XXX]] *(required wikilink)*
+[[C-XXX|human label]] — *one-line gloss of the claim*
 
 ## Related claims (optional)
 
-- Opposing: [[C-AXXX]]
-- Sibling args on same claim: [[A-PRO-XXX]] / [[A-ANTI-XXX]]
+- Opposing: [[C-AXXX|human label]] — *gloss*
+- Sibling args on same claim: [[A-PRO-XXX|label]] / [[A-ANTI-XXX|label]] — *gloss each*
 
 ## Thesis
 
@@ -31,7 +35,7 @@ Historical / philosophical / scientific framing only. No assumptions — cite ev
 
 List concrete source notes — do **not** substitute “see Media Index” alone:
 
-- [[S-XXX]] — [url](https://example.com)
+- [[S-XXX|source title]] — *one-line gloss* — [url](https://example.com)
 
 ## Symmetry notes
 

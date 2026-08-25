@@ -17,6 +17,10 @@ round: R01
 
 # S-XXX — Title
 
+## Explain for the reader
+
+*(one sentence: what this source is / claims · one sentence: why agents are using it in this dispute)*
+
 ## Citation
 
 - Title:  
@@ -30,15 +34,15 @@ What the source claims, without endorsement.
 
 ## Used for claims
 
-*(required — wikilink every claim this note supports or attacks)*
+*(required — labeled wikilink + one-line gloss for every claim this note supports or attacks)*
 
-- [[C-XXX]]
-- [[C-AXXX]]
+- [[C-XXX|human label]] — *gloss: what point this source is meant to support or attack*
+- [[C-AXXX|human label]] — *gloss*
 
 ## Related arguments (optional)
 
-- [[A-PRO-XXX]]
-- [[A-ANTI-XXX]]
+- [[A-PRO-XXX|human label]] — *gloss*
+- [[A-ANTI-XXX|human label]] — *gloss*
 
 ## Notes
 
@@ -46,6 +50,6 @@ Popularity / influence (why researched):
 
 ## Challenges
 
-- [[SC-XXX]] *(when filed)*
+- [[SC-XXX|challenge label]] — *gloss when filed*
 
-See [[Media Index]] · [[Debate Graph]]
+See [[Media Index]] · [[Debate Graph]] · [[Writing for Humans]]

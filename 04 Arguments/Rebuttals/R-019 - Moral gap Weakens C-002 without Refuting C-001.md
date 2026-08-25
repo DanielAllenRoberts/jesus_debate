@@ -10,19 +10,22 @@ attack_type: logic
 
 # R-019 — Moral gap Weakens C-002 without Refuting C-001
 
+**In short:** Clarifies scoring logic on [[C-002|God of the Bible]] involving [[A-PRO-002|Moral law points to biblical theism]] and [[A-ANTI-011|Moral theism gap blocks biblical identification]]. A moral/Bible gap can Weaken C-002 without Refuting bare theism ([[C-001|God exists]]).
+
 ## Targets
 
-[[C-002]] [[A-PRO-002]] [[A-ANTI-011]]
+[[C-002|God of the Bible]] [[A-PRO-002|Moral law points to biblical theism]] [[A-ANTI-011|Moral theism gap blocks biblical identification]]
+
 
 ## Attack
 
 Type: `logic` / `evidence`
 
-Reaffirm [[R-010]]: moral lawgiver ≠ biblical God. Seek Weakened on [[C-002]].
+Reaffirm [[R-010|Text recovery vs doctrinal truth]]: moral lawgiver ≠ biblical God. Seek Weakened on [[C-002|God of the Bible]].
 
 ## Sources
 
-- [[S-103]] · [[S-101]] · [[S-102]] · [[S-025]] · [[S-096]] · [[S-065]] · [[S-060]]
+- [[S-103|Bauckham, Jesus and the God of Israel]] · [[S-101|SEP Miracles]] · [[S-102|SEP Hume on Religion]] · [[S-025|Ehrman, How Jesus Became God]] · [[S-096|Hurtado, Early High Christology clarifying]] · [[S-065|Ehrman, God’s Problem]] · [[S-060|SEP Problem of Evil]]
 
 ## Effect sought
 

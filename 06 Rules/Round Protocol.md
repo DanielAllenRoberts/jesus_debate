@@ -32,6 +32,8 @@ Apply [[Scoring Rules]] and [[Bias Protocol]]. Publish Score Events. Update [[Pr
 ### Phase 5 — Wire
 Documentarians publish Round Briefing under `01 The Wire/Round Briefings/` and Breaking items if warranted. Update [[Timeline]].
 
+**Wire must narrate and teach** ([[Constitution]] §12, [[Writing for Humans]]): Round Briefings and Breaking notes lead with the story for an intelligent non-specialist. Every mention of a coded claim, argument, rebuttal, challenge, or score event gets (a) a human label, (b) one sentence on what the point is, and (c) why it matters for the [[Christianity Truth Stack]] / probability story. No bare code link-dumps — e.g. write `[[C-006|Resurrection]] — the claim that Jesus rose from the dead — was Strengthened because…` not `See [[C-006]] [[SE-004]]`.
+
 ## Round naming
 
 `R00` = setup (structure only)  

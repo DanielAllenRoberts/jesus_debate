@@ -13,6 +13,10 @@ promoted_source:
 
 # H-XXX — Title
 
+## Explain for the reader
+
+*(one sentence: what this media is · one sentence: why you think it might matter to the dispute)*
+
 ## Source
 
 - **Type:** video / article / book / essay / other  
@@ -27,10 +31,10 @@ promoted_source:
 
 ## Claims it might touch
 
-*(wikilink when known)*
+*(labeled wikilink + one-line gloss when known)*
 
-- [[C-XXX]]
-- [[C-AXXX]]
+- [[C-XXX|human label]] — *gloss*
+- [[C-AXXX|human label]] — *gloss*
 
 ## Transcript / excerpt
 
@@ -45,8 +49,8 @@ Paste transcript below, or link a file in this folder (e.g. `H-XXX-transcript.md
 
 ## Agent handoff
 
-- [ ] Promoted to `S-###` (wikilink: [[S-XXX]])  
-- [ ] Linked to claim(s)  
+- [ ] Promoted to `S-###` (wikilink: [[S-XXX|source title]] — *gloss*)  
+- [ ] Linked to claim(s) with labels + glosses  
 - [ ] Credibility: unreviewed → …  
 
-See [[Human Inbox]] · [[Debate Graph]]
+See [[Human Inbox]] · [[Debate Graph]] · [[Writing for Humans]]

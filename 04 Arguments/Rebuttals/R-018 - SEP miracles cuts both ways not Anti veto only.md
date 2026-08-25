@@ -10,19 +10,22 @@ attack_type: logic
 
 # R-018 — SEP miracles cuts both ways not Anti veto only
 
+**In short:** Engages [[A-ANTI-010|Humean miracle epistemology still dominates]]. SEP-style miracle philosophy cuts both ways: it disciplines Pro overclaim *and* prevents Anti from treating miracle skepticism as a one-sided veto.
+
 ## Targets
 
-[[A-ANTI-010]] [[S-101]] [[S-102]]
+[[A-ANTI-010|Humean miracle epistemology still dominates]] [[S-101|SEP Miracles]] [[S-102|SEP Hume on Religion]]
+
 
 ## Attack
 
 Type: `logic` / `evidence`
 
-[[S-101]] includes arguments *for* miracle testimony weighing, not only Humean veto ([[S-102]], [[S-023]]). Anti may not treat encyclopedia as one-sided defeat of [[C-006]].
+[[S-101|SEP Miracles]] includes arguments *for* miracle testimony weighing, not only Humean veto ([[S-102|SEP Hume on Religion]], [[S-023|Hume, Of Miracles]]). Anti may not treat encyclopedia as one-sided defeat of [[C-006|Resurrection]].
 
 ## Sources
 
-- [[S-103]] · [[S-101]] · [[S-102]] · [[S-025]] · [[S-096]] · [[S-065]] · [[S-060]]
+- [[S-103|Bauckham, Jesus and the God of Israel]] · [[S-101|SEP Miracles]] · [[S-102|SEP Hume on Religion]] · [[S-025|Ehrman, How Jesus Became God]] · [[S-096|Hurtado, Early High Christology clarifying]] · [[S-065|Ehrman, God’s Problem]] · [[S-060|SEP Problem of Evil]]
 
 ## Effect sought
 

@@ -10,13 +10,17 @@ attack_type: evidence
 
 # R-XXX — Title
 
+## Explain for the reader
+
+*(one sentence: what this rebuttal attacks and how · one sentence: why that matters for the claim / stack / probability)*
+
 ## Targets
 
-*(required wikilinks)*
+*(required — labeled wikilinks + one-line gloss)*
 
-- Argument: [[A-PRO-XXX]] or [[A-ANTI-XXX]]
-- Claim: [[C-XXX]]
-- Source (if evidence attack): [[S-XXX]]
+- Argument: [[A-PRO-XXX|human label]] or [[A-ANTI-XXX|human label]] — *gloss*
+- Claim: [[C-XXX|human label]] — *gloss*
+- Source (if evidence attack): [[S-XXX|source title]] — *gloss*
 
 ## Attack
 
@@ -24,10 +28,10 @@ Type: `logic` | `evidence` | `credibility` | `symmetry`
 
 ## Sources (required)
 
-- [[S-XXX]] — [url](https://example.com)
+- [[S-XXX|source title]] — *one-line gloss* — [url](https://example.com)
 
 ## Effect sought
 
 e.g. move claim to Weakened; uphold Source Challenge; expose symmetry violation.
 
-See [[Debate Graph]] · [[Arguments Index]]
+See [[Debate Graph]] · [[Arguments Index]] · [[Writing for Humans]]
