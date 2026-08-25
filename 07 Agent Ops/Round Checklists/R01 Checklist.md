@@ -10,8 +10,8 @@ round: R01
 
 ## Phase 1 — Research & cite
 - [x] Pro publishes truth-stack + registers Foundation/Core claims  
-- [x] Anti registers initial counter-claims (optional)  
-- [ ] 50 Pro + 50 Anti: popular + scholarly sources → Source notes + Arguments *(8 research waves in flight)*  
+- [x] Anti registers initial counter-claims  
+- [x] Pro + Anti research waves → Source notes + Arguments *(filed; credibility still unreviewed)*  
 
 ## Phase 2 — Cross-read
 - [ ] Pro reads Anti new notes  
