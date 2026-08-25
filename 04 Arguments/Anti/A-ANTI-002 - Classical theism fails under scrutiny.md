@@ -18,6 +18,8 @@ wave: Anti-A/B
 
 [[C-A002]]
 
+Opposing Pro claim: [[C-001]]
+
 ## Thesis
 
 Classical proofs fail; problem of evil makes omnibenevolent omnipotent God improbable.
@@ -28,7 +30,25 @@ Phase 1 thesis from research wave **Anti-A/B**. Source notes are in the Evidence
 
 ## Sources (required)
 
-See [[Media Index]] entries for wave `Anti-A/B` and claim `C-A002`.
+- [[S-060]] — Tooley, The Problem of Evil (SEP)
+- [[S-061]] — Mackie, Evil and Omnipotence
+- [[S-062]] — Hiddenness of God (SEP)
+- [[S-063]] — Schellenberg, *Divine Hiddenness and Human Reason*
+- [[S-021]] — Mackie, *The Miracle of Theism*
+- [[S-022]] — Oppy, *Arguing about Gods*
+- [[S-016]] — Dawkins, *The God Delusion*
+- [[S-024]] — Stenger, *God: The Failed Hypothesis*
+
+## Related Anti arguments
+
+- [[A-ANTI-003]] — biblical God fails moral/empirical tests ([[C-002]])
+
+## Opposing Pro
+
+- [[C-001]] — classical theistic God exists
+- [[A-PRO-001]] — cosmology and fine-tuning favor a personal Creator
+- [[A-PRO-006]] — Aquinas / kalām / fine-tuning cumulative case
+- [[A-PRO-002]] — moral law points to biblical theism
 
 ## Symmetry notes
 

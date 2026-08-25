@@ -17,6 +17,8 @@ viewpoint: "historical"
 
 [[C-006]]
 
+Opposing Anti claim: [[C-A001]]
+
 ## Thesis
 
 Bedrock facts (death, appearances, early proclamation, transformation) are best explained by bodily resurrection.
@@ -27,10 +29,25 @@ Phase 1 Pro Wave A thesis. Load-bearing steps require the cited sources; Neutral
 
 ## Sources (required)
 
-- [[S-003]]
-- [[S-004]]
-- [[S-005]]
-- [[S-006]]
+- [[S-004]] — Habermas & Licona, *The Case for the Resurrection of Jesus*
+- [[S-003]] — Wright, *The Resurrection of the Son of God*
+- [[S-005]] — Licona, *The Resurrection of Jesus*
+- [[S-047]] — Habermas, Minimal Facts approach
+- [[S-037]] — Habermas, Experiences of the Risen Jesus
+- [[S-051]] — Craig–Ehrman resurrection debate
+- [[S-006]] — Strobel, *The Case for Christ*
+
+## Related Pro arguments
+
+- [[A-PRO-011]] — empty tomb + early creed hinges
+- [[A-PRO-005]] — resurrection vindicates [[C-003]]
+- [[A-PRO-010]] — crucifixion under Pilate ([[C-005]])
+
+## Opposing Anti
+
+- [[C-A001]] — resurrection did not occur
+- [[A-ANTI-001]] — vision-origin naturalistic Easter
+- [[A-ANTI-006]] — Gospel distance / legendary embossing ([[C-006]])
 
 ## Symmetry notes
 

@@ -14,7 +14,12 @@ viewpoint: historical
 
 ## Claim targeted
 
-[[C-XXX]]
+[[C-XXX]] *(required wikilink)*
+
+## Related claims (optional)
+
+- Opposing: [[C-AXXX]]
+- Sibling args on same claim: [[A-PRO-XXX]] / [[A-ANTI-XXX]]
 
 ## Thesis
 
@@ -24,10 +29,14 @@ Historical / philosophical / scientific framing only. No assumptions — cite ev
 
 ## Sources (required)
 
-- [[S-XXX]] — [url]
+List concrete source notes — do **not** substitute “see Media Index” alone:
+
+- [[S-XXX]] — [url](https://example.com)
 
 ## Symmetry notes
 
 Could the opponent use the same method? If we deny them, state principled cited distinction.
 
 ## Anticipated objections
+
+- 

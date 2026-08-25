@@ -39,6 +39,17 @@ These are necessary supports for layer 3 (and historically load-bearing for clas
 | 5 | [[C-005]] | Jesus was crucified | Core |
 | 6 | [[C-006]] | Jesus rose from the dead | Core |
 
+## Navigate the graph
+
+[[Debate Graph]] — Claim → Arguments → Sources → Rebuttals  
+Indexes: [[All Claims Index]] · [[Arguments Index]] · [[Media Index]] · [[Claim Scores]] · [[Hottest Debates]]
+
+Anti counters registered for R01 (not part of this stack, but linked fights):
+
+- [[C-A001]] opposes [[C-006]]
+- [[C-A002]] opposes [[C-001]]
+- [[C-A003]] presses continuity against [[C-003]]
+
 ## Rules reminder
 
 - Every layer needs historical / philosophical / scientific argumentation + sources.  

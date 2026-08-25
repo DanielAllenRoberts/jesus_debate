@@ -6,9 +6,9 @@ tags:
 
 # Rules
 
-1. [[Constitution]] — master law  
+1. [[Constitution]] — master law (incl. §11 mandatory `[[wikilinks]]`)  
 2. [[Scoring Rules]] — statuses, tiers, probability math  
-3. [[Evidence Standards]] — citations & credibility  
+3. [[Evidence Standards]] — citations, credibility & wikilink requirements  
 4. [[Bias Protocol]] — AI training-skew audits  
 5. [[Round Protocol]] — phases  
 

@@ -11,7 +11,7 @@ round: R01
 
 | Field | Value |
 |-------|-------|
-| Claim | C-XXX |
+| Claim | [[C-XXX]] |
 | From status | |
 | To status | |
 | Old % | |
@@ -20,9 +20,13 @@ round: R01
 | Neutrals | |
 | Bias audit | pass / Hold / n/a |
 | Rule refs | [[Scoring Rules]] |
+| Related args | [[A-PRO-XXX]] / [[A-ANTI-XXX]] |
+| Key sources | [[S-XXX]] |
 
 ## Checklist evidence
 
 Paste or link Neutral checklist outcomes.
 
 ## Remediations (if Hold)
+
+See [[Claim Scores]] · [[Debate Graph]] · [[Probability of Christianity]]

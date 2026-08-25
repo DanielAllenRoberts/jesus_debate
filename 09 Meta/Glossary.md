@@ -16,3 +16,4 @@ tags:
 | Unverified | Source cannot be checked; cannot support scoring |
 | Neutral | Process auditor; not a doctrinal judge |
 | Documentarian | News writer; does not score |
+| Wikilink | Obsidian internal link `[[Note]]`; required for all vault-entity references (Constitution §11). External URLs stay markdown links. |

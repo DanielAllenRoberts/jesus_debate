@@ -18,6 +18,8 @@ wave: Anti-C
 
 [[C-004]]
 
+Related Pro claim: [[C-005]]
+
 ## Thesis
 
 Anti prioritizes critical naturalistic alternatives over fringe Jesus-myth theories.
@@ -28,7 +30,21 @@ Phase 1 thesis from research wave **Anti-C**. Source notes are in the Evidence L
 
 ## Sources (required)
 
-See [[Media Index]] entries for wave `Anti-C` and claim `C-004`.
+- [[S-072]] — Historicity of Jesus (encyclopedia overview)
+- [[S-073]] — Christ myth theory (fringe map / reception)
+- [[S-074]] — Casey, *Jesus: Evidence and Argument or Mythicist Myths?*
+- [[S-080]] — Dying-and-rising god category critique + Zeitgeist popularization
+
+## Related Anti arguments
+
+- [[A-ANTI-001]] — vision-origin naturalistic Easter ([[C-A001]]) — preferred alternative to mythicism
+- [[A-ANTI-006]] — Gospel legendary embossing ([[C-006]]) — preferred alternative to mythicism
+
+## Opposing Pro
+
+- [[C-004]] — historical Jesus
+- [[A-PRO-003]] — historical Jesus and crucifixion are historically secure
+- [[A-PRO-009]] — existence via multiple attestation including critics
 
 ## Symmetry notes
 

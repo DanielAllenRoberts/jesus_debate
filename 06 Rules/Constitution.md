@@ -38,7 +38,7 @@ Disallowed unless attached to clear, independently checkable proof that meets [[
 
 ## 6. Full citation
 
-Every research/argument note links sources. Missing URLs or unverifiable references are marked `unverified` and **cannot support scoring**.  
+Every research/argument note links sources via Obsidian `[[wikilinks]]` (see §11). Missing URLs or unverifiable references are marked `unverified` and **cannot support scoring**.  
 Opponents may challenge credibility via notes in `05 Evidence Library/Source Challenges/`.
 
 ## 7. Scoring gate
@@ -60,6 +60,21 @@ After the challenge window in [[Scoring Rules]], Neutrals may lock the tier.
 
 Early mode uses strict phases in [[Round Protocol]].  
 Overlapping mode requires an explicit rules amendment note before use.
+
+## 11. Mandatory Obsidian wikilinks
+
+Every claim, argument, source, rebuttal, source challenge, score event, and Wire note that references another vault entity **MUST** use `[[wikilinks]]`. Bare IDs in plain text alone (e.g. typing `C-001` without `[[C-001]]`) do **not** satisfy this rule.
+
+| Note type | Required wikilinks |
+|-----------|-------------------|
+| Arguments | Target claim(s) and every cited source note |
+| Sources | Claims they support or attack |
+| Claims | Linked lists of related arguments and sources (explicit sections, and/or kept current via backlinks + those sections) |
+| Rebuttals / Source Challenges / Score Events | Target claim(s), argument(s), and/or source(s) they act on |
+| Indexes and [[01 The Wire/Wire Index\|The Wire]] | Every vault entity they mention |
+
+**External** URLs remain normal markdown links (`[label](https://…)`). **Internal** vault links must be Obsidian wikilinks.  
+This rule does not change [[Scoring Rules]] math; it governs how the graph is wired. See also [[Evidence Standards]].
 
 ## Amendments
 

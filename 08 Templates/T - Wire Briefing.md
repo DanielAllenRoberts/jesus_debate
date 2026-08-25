@@ -10,7 +10,7 @@ round: R01
 
 **Round:** RX  
 **Score delta:** e.g. 50.0% → 50.0%  
-**Hottest:**  
+**Hottest:** [[C-XXX]] · [[Hottest Debates]]
 
 ## What happened
 
@@ -18,12 +18,19 @@ Narrative of the round for human readers. Link claims, score events, and fights 
 
 ## Key claims moved
 
-- 
+- [[C-XXX]] — status note; see [[Claim Scores]]
+
+## Arguments / sources in play
+
+- [[A-PRO-XXX]] / [[A-ANTI-XXX]]
+- [[S-XXX]]
 
 ## Open fires
 
-- 
+- [[C-XXX]]
 
 ## Next
 
 Phase / round preview.
+
+See [[Debate Graph]] · [[Wire Index]] · [[Timeline]]

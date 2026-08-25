@@ -12,8 +12,12 @@ status: locked
 
 1. **Source note** exists under `05 Evidence Library/Sources/` with template fields filled.  
 2. **External reference** — URL, DOI, ISBN, stable archive link, or precise citation for offline works.  
-3. **Claim link** — source lists which claims it is used for.  
+3. **Claim link** — source lists which claims it is used for, each as a `[[wikilink]]` (Constitution §11).  
 4. **Viewpoint tag** on the argument: historical / philosophical / scientific.
+
+## Wikilinks (mandatory)
+
+Per [[Constitution]] §11: internal vault references use Obsidian `[[wikilinks]]`, not bare IDs only. Arguments must wikilink target claims and cited sources; sources must wikilink claims they support/attack; claims keep linked argument/source lists. External URLs stay normal markdown links.
 
 ## Source types
 

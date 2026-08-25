@@ -18,6 +18,8 @@ wave: Anti-A
 
 [[C-002]]
 
+Related Anti claim: [[C-A002]]
+
 ## Thesis
 
 Even if a deity existed, the biblical God fails moral and empirical tests.
@@ -28,7 +30,24 @@ Phase 1 thesis from research wave **Anti-A**. Source notes are in the Evidence L
 
 ## Sources (required)
 
-See [[Media Index]] entries for wave `Anti-A` and claim `C-002`.
+- [[S-017]] — Hitchens, *God Is Not Great*
+- [[S-018]] — Harris, *Letter to a Christian Nation*
+- [[S-016]] — Dawkins, *The God Delusion*
+- [[S-024]] — Stenger, *God: The Failed Hypothesis*
+- [[S-065]] — Ehrman, *God’s Problem*
+- [[S-084]] — Holy Koolaid, Nothing Fails Like Bible History
+- [[S-092]] — Atheist Republic, The Greatest Lie Ever Told
+- [[S-081]] — O’Connor vs D’Souza, Is the Bible True?
+
+## Related Anti arguments
+
+- [[A-ANTI-002]] — classical theism fails under scrutiny ([[C-A002]])
+
+## Opposing Pro
+
+- [[C-002]] — God of the Bible
+- [[A-PRO-007]] — NT textual attestation recovers biblical witness
+- [[A-PRO-002]] — moral law points to biblical theism
 
 ## Symmetry notes
 

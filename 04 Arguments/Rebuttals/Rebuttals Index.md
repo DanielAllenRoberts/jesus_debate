@@ -1,18 +1,31 @@
 ---
-title: Arguments Index
+title: Rebuttals Index
 tags:
   - arguments
+  - rebuttals
 ---
 
-# Arguments
+# Rebuttals
 
-- `Pro/` — affirming arguments (`A-PRO-###`)  
-- `Anti/` — disconfirming arguments (`A-ANTI-###`)  
-- `Rebuttals/` — cross attacks (`R-###`) → [[Rebuttals Index]]  
+Cross-attacks (`R-###`) — none filed yet (Phase 3).
 
-Templates: [[T - Argument]] · [[T - Rebuttal]]
+See [[Arguments Index]] · templates: [[T - Rebuttal]]
 
-## Pro
+## Linked debate graph (until R-notes exist)
+
+### Anti arguments
+
+| ID | Claim | Title |
+|----|-------|-------|
+| [[A-ANTI-001]] | [[C-A001]] | Vision-origin naturalistic Easter |
+| [[A-ANTI-002]] | [[C-A002]] | Classical theism fails under scrutiny |
+| [[A-ANTI-003]] | [[C-002]] | Biblical God fails moral empirical tests |
+| [[A-ANTI-004]] | [[C-A003]] | Christology developed after Jesus |
+| [[A-ANTI-005]] | [[C-A003]] | Orthodoxy as later winner |
+| [[A-ANTI-006]] | [[C-006]] | Gospel distance allows legendary embossing |
+| [[A-ANTI-007]] | [[C-004]] | Mythicism is fringe do not overclaim |
+
+### Pro arguments (targets for future rebuttals)
 
 | ID | Claim | Title |
 |----|-------|-------|
@@ -27,15 +40,3 @@ Templates: [[T - Argument]] · [[T - Rebuttal]]
 | [[A-PRO-009]] | [[C-004]] | Existence via multiple attestation including critics |
 | [[A-PRO-010]] | [[C-005]] | Crucifixion under Pilate among firmest HJ facts |
 | [[A-PRO-011]] | [[C-006]] | Empty tomb + early creed as resurrection hinges |
-
-## Anti
-
-| ID | Claim | Title |
-|----|-------|-------|
-| [[A-ANTI-001]] | [[C-A001]] | Vision-origin naturalistic Easter |
-| [[A-ANTI-002]] | [[C-A002]] | Classical theism fails under scrutiny |
-| [[A-ANTI-003]] | [[C-002]] | Biblical God fails moral empirical tests |
-| [[A-ANTI-004]] | [[C-A003]] | Christology developed after Jesus |
-| [[A-ANTI-005]] | [[C-A003]] | Orthodoxy as later winner |
-| [[A-ANTI-006]] | [[C-006]] | Gospel distance allows legendary embossing |
-| [[A-ANTI-007]] | [[C-004]] | Mythicism is fringe do not overclaim |

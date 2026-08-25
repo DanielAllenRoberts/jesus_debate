@@ -12,7 +12,11 @@ attack_type: evidence
 
 ## Targets
 
-- Argument / claim:  
+*(required wikilinks)*
+
+- Argument: [[A-PRO-XXX]] or [[A-ANTI-XXX]]
+- Claim: [[C-XXX]]
+- Source (if evidence attack): [[S-XXX]]
 
 ## Attack
 
@@ -20,8 +24,10 @@ Type: `logic` | `evidence` | `credibility` | `symmetry`
 
 ## Sources (required)
 
-- 
+- [[S-XXX]] — [url](https://example.com)
 
 ## Effect sought
 
 e.g. move claim to Weakened; uphold Source Challenge; expose symmetry violation.
+
+See [[Debate Graph]] · [[Arguments Index]]

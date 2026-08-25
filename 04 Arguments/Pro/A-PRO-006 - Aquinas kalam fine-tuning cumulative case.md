@@ -18,6 +18,8 @@ wave: Pro-B
 
 [[C-001]]
 
+Opposing Anti claim: [[C-A002]]
+
 ## Thesis
 
 Contingency, kalām, and fine-tuning jointly favor a personal creator.
@@ -28,7 +30,24 @@ Phase 1 thesis from research wave **Pro-B**. Source notes are in the Evidence Li
 
 ## Sources (required)
 
-See [[Media Index]] entries for wave `Pro-B` and claim `C-001`.
+- [[S-030]] — Aquinas, Summa Theologiae I, Q.2 (Five Ways)
+- [[S-031]] — Craig, The Kalam Argument
+- [[S-033]] — Fine-Tuning (SEP)
+- [[S-013]] — Cosmological Argument (SEP)
+- [[S-055]] — Craig, Five Arguments for God
+- [[S-056]] — *The Privileged Planet*
+- [[S-057]] — Lennox, *God’s Undertaker*
+- [[S-012]] — Swinburne, *The Existence of God*
+
+## Related Pro arguments
+
+- [[A-PRO-001]] — cosmology and fine-tuning
+- [[A-PRO-002]] — moral law on [[C-001]]
+
+## Opposing Anti
+
+- [[C-A002]] — no classical theistic God
+- [[A-ANTI-002]] — classical theism fails under scrutiny
 
 ## Symmetry notes
 

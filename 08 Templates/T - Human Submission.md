@@ -16,7 +16,7 @@ promoted_source:
 ## Source
 
 - **Type:** video / article / book / essay / other  
-- **URL:**  
+- **URL:** [link](https://example.com)  
 - **Creator / channel / author:**  
 - **Date published (if known):**  
 - **Why I think it matters:**  
@@ -27,9 +27,10 @@ promoted_source:
 
 ## Claims it might touch
 
-(Optional — leave blank if unsure.)
+*(wikilink when known)*
 
-- 
+- [[C-XXX]]
+- [[C-AXXX]]
 
 ## Transcript / excerpt
 
@@ -44,6 +45,8 @@ Paste transcript below, or link a file in this folder (e.g. `H-XXX-transcript.md
 
 ## Agent handoff
 
-- [ ] Promoted to `S-###`  
+- [ ] Promoted to `S-###` (wikilink: [[S-XXX]])  
 - [ ] Linked to claim(s)  
 - [ ] Credibility: unreviewed → …  
+
+See [[Human Inbox]] · [[Debate Graph]]

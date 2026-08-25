@@ -11,13 +11,18 @@ status: open
 
 ## Target source
 
-[[S-XXX]]
+[[S-XXX]] *(required)*
+
+## Claims / arguments affected
+
+- [[C-XXX]]
+- [[A-PRO-XXX]]
 
 ## Grounds
 
 ## Supporting citations
 
-- 
+- [[S-XXX]] — [url](https://example.com)
 
 ## Requested remedy
 
@@ -27,3 +32,5 @@ Reject source / limit use / require corroboration / correct quotation.
 
 `open` | `upheld` | `dismissed`  
 Neutral notes:
+
+See [[Media Index]] · [[Debate Graph]]
