@@ -9,10 +9,10 @@ Where a curious reader should look first — live load-bearing fights, not settl
 
 | Rank | Claim fight | Status | Why hot (so what) |
 |------|-------------|--------|-------------------|
-| 1 | [[C-001|C-001 — God exists]] / [[C-A002|C-A002 — No classical God]] | Contested / Contested | Foundation undecided after three rounds: fine-tuning/cosmology vs evil, hiddenness, and inductive atheism. If this layer falls, the stack’s top collapses regardless of history. |
-| 2 | [[C-006|C-006 — Resurrection]] / [[C-A001|C-A001 — No resurrection]] | Strengthened / Contested | Easter hinge: early creed and cautious historical residues raised Pro support, but Humean miracle priors and apparition models still block Proven. Central for classical Christianity. |
-| 3 | [[C-002|C-002 — God of the Bible]] | **Weakened** | Soft joint of the stack: even if some deity exists, moral/identity critiques Weakened “that God is the biblical God” without Refuting classical theism alone. |
-| 4 | [[C-003|C-003 — Son / atonement]] / [[C-A003|C-A003 — Later Nicene construction]] | Strengthened / Strengthened | Both scored: early divine-identity + cultic devotion raised Pro continuity; councils/pluriformity still Strengthened Anti’s “finished package is later.” Not a clean win either way. |
-| 5 | [[C-004|C-004 — Historical Jesus]] / [[C-005|C-005 — Crucifixion]] | Strengthened / Strengthened | Quieter after R01, but load-bearing: without a real crucified Jesus, atonement and resurrection claims have nowhere to stand. Mythicism was declined even by Anti. |
+| 1 | [[C-001|C-001 — God exists]] / [[C-A002|C-A002 — No classical God]] | **Strengthened / Strengthened** | Dual foundation mirrors after R04–R05: hiddenness+evil raised Anti support; skeptical theism + natural theology raised Pro support. Neither Proven/Refuted. If either collapses later, the stack’s top fails. |
+| 2 | [[C-006|C-006 — Resurrection]] / [[C-A001|C-A001 — No resurrection]] | **Strengthened / Strengthened** | Dual Easter mirrors after R06: creed/residues vs Lüdemann vision + tomb fragility. Central hinge for classical Christianity. |
+| 3 | [[C-002|C-002 — God of the Bible]] | **Weakened** | Soft joint: Copan↔Seibert in R08 did not restore Contested. Moral/identity gap without Refuting classical theism alone. |
+| 4 | [[C-003|C-003 — Son / atonement]] / [[C-A003|C-A003 — Later Nicene construction]] | Strengthened / Strengthened | Early identity/devotion vs later finished orthodoxy; R07 Ehrman↔Bird deepen without Δ. |
+| 5 | [[C-004|C-004 — Historical Jesus]] / [[C-005|C-005 — Crucifixion]] | Strengthened / Strengthened | Quieter baseline: real crucified Jesus still load-bearing for upper layers. |
 
-Probability: [[Probability of Christianity]] · Story: [[Wire Index]]
+Probability: [[Probability of Christianity]] (**52.0%**) · Story: [[Wire Index]] · Thinking: [[Thinking Logs Index]]

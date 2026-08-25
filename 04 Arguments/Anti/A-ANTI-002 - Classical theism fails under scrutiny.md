@@ -70,3 +70,7 @@ Anti may not dismiss cosmological arguments as “not evidence” while treating
 - Free-will and soul-making theodicies.
 - Skeptical theism limiting evil inferences.
 - Fine-tuning / contingency as independent positive evidence ([[S-013|SEP Cosmological Argument]], [[S-014|SEP Teleological Arguments]], [[S-033|Fine-Tuning (resource)]]).
+
+## R04 expansion — hiddenness as independent blade
+
+R04 deepens this case beyond generic “evil exists.” Schellenberg’s nonresistant-nonbelief argument ([[A-ANTI-012|Schellenberg nonresistant nonbelief]], [[S-106|Schellenberg 2015]], [[S-105|IEP Hiddenness]]) targets divine *love* even where cosmology looks friendly to “some creator.” Stacked with Rowe-style evidential evil ([[A-ANTI-013|Evidential evil plus hiddenness]], [[S-108|IEP Evidential Evil]]), Anti asks Neutrals to **Strengthen** [[C-A002|No classical theistic God]] while granting Plantinga’s logical-compatibility point ([[S-107|Plantinga]]) so the score stays honest — Strengthened, not Proven/Refuted theater.

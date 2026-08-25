@@ -29,6 +29,26 @@ Skimmer note: ID cells carry short titles; Primary targets name the argument/cla
 | [[R-018|R-018 — SEP miracles cuts both ways not Anti veto only]] | R03 | pro | [[A-ANTI-010|Humean miracle epistemology still dominates]] |
 | [[R-019|R-019 — Moral gap Weakens C-002 without Refuting C-001]] | R03 | anti | [[A-PRO-002|Moral law points to biblical theism]]; [[A-ANTI-011|Moral theism gap blocks biblical identification]]; [[C-002|God of the Bible]]; [[C-001|God exists]] |
 | [[R-020|R-020 — Divine identity plus devotion Strengthens C-003]] | R03 | pro | [[A-ANTI-004|Christology developed after Jesus]]; [[C-003|Jesus Son of God died for sins]] |
+| [[R-021|R-021 — Free-will defense blocks logical Refutation shortcut]] | R04 | pro | [[A-ANTI-002|Classical theism fails]]; [[A-ANTI-013|Cumulative atheology]]; [[C-001|God exists]] |
+| [[R-022|R-022 — FWD does not answer Rowe or Schellenberg]] | R04 | anti | [[A-PRO-016|Free-will defense]]; [[C-A002|No classical God]] |
+| [[R-023|R-023 — Hiddenness replies keep C-001 from Refuted]] | R04 | pro | [[A-ANTI-012|Schellenberg]]; [[C-001|God exists]] |
+| [[R-024|R-024 — Nonresistant nonbelief empirical pressure]] | R04 | anti | [[A-PRO-017|Relationship goods]]; [[C-A002|No classical God]] |
+| [[R-025|R-025 — Skeptical theism blunts Rowe noseeum step]] | R05 | pro | [[A-ANTI-013|Cumulative atheology]]; [[C-001|God exists]] |
+| [[R-026|R-026 — Excessive skepticism objection to skeptical theism]] | R05 | anti | [[A-PRO-019|Skeptical theism Strengthens C-001]]; [[C-A002|No classical God]] |
+| [[R-027|R-027 — Swinburne structure helps without 0.97 dogma]] | R05 | pro | [[A-ANTI-014|Miracle priors]]; [[C-006|Resurrection]] |
+| [[R-028|R-028 — Bayesian branding does not unlock Proven Easter]] | R05 | anti | [[A-PRO-018|Swinburne Bayesian]]; [[C-006|Resurrection]] |
+| [[R-029|R-029 — Women witnesses and early tomb tradition still bite]] | R06 | pro | [[A-ANTI-017|Empty tomb secondary]]; [[C-006|Resurrection]] |
+| [[R-030|R-030 — Vision model explains creed without body]] | R06 | anti | [[A-PRO-020|Appearances plus burial]]; [[C-A001|No resurrection]] |
+| [[R-031|R-031 — Allison caution is not Anti veto only]] | R06 | pro | [[A-ANTI-016|Lüdemann vision]]; [[S-113|Allison]] |
+| [[R-032|R-032 — Empty tomb hinge is too brittle for Proven]] | R06 | anti | [[A-PRO-011|Empty tomb hinge]]; [[C-006|Resurrection]] |
+| [[R-033|R-033 — Gathercole preexistence undercuts late-only slogan]] | R07 | pro | [[A-ANTI-018|Ehrman exaltation]]; [[C-003|Son / atonement]] |
+| [[R-034|R-034 — Early high phrases still allow Ehrman development]] | R07 | anti | [[A-PRO-022|Bird/Gathercole]]; [[C-A003|Later Nicene construction]] |
+| [[R-035|R-035 — Devotion evidence is historical not confessional-only]] | R07 | pro | [[SC-010|SC-010]]; [[A-ANTI-018|Ehrman]] |
+| [[R-036|R-036 — Atonement metaphysics not secured by Kyrios devotion]] | R07 | anti | [[A-PRO-005|Resurrection vindicates atonement]]; [[C-003|Son / atonement]] |
+| [[R-037|R-037 — ANE context complicates genocide slogans]] | R08 | pro | [[A-ANTI-020|Seibert gap]]; [[C-002|God of the Bible]] |
+| [[R-038|R-038 — Contextual apologetics do not erase herem texts]] | R08 | anti | [[A-PRO-023|Contextual OT ethics]]; [[C-002|God of the Bible]] |
+| [[R-039|R-039 — Christocentric reading is not automatic identification fix]] | R08 | anti | [[A-PRO-024|Progressive revelation]]; [[C-002|God of the Bible]] |
+| [[R-040|R-040 — Seibert cure costs show problem is real not invented by atheists]] | R08 | pro | [[A-ANTI-020|Seibert gap]]; [[S-123|Direction]] |
 
 ## Source Challenges
 
@@ -40,5 +60,10 @@ Skimmer note: ID cells carry short titles; Primary targets name the argument/cla
 | [[SC-004|SC-004 — Challenge to S-076 overclaiming universal post-70 consensus]] | [[S-076|Why Date the Gospels after 70 CE?]] | upheld |
 | [[SC-005|SC-005 — Challenge to one-sided use of S-049]] | [[S-049|The Resurrection of Jesus: Apologetics, Polemics, History]] | upheld |
 | [[SC-006|SC-006 — Limit S-104 as primary]] | [[S-104|How Was Jesus God? (Christianity Today on Bauckham)]] | upheld |
+| [[SC-007|SC-007 — Limit popular atheology as primary vs Schellenberg]] | [[S-016|The God Delusion]] (and popular atheology) | upheld |
+| [[SC-008|SC-008 — Challenge Swinburne probability inputs as unverifiable]] | [[S-109|Swinburne, The Resurrection of God Incarnate]] | upheld |
+| [[SC-009|SC-009 — Challenge Crossan burial overclaim as consensus]] | [[S-114|Crossan burial/empty-tomb skepticism]] | upheld |
+| [[SC-010|SC-010 — Limit confessional response volume as sole primary]] | [[S-117|How God Became Jesus (Bird et al.)]] | upheld |
+| [[SC-011|SC-011 — Limit Copan as popular apologetics needing ANE corroboration]] | [[S-121|Is God a Moral Monster? (Copan)]] | upheld |
 
 See [[Arguments Index]] · [[Debate Graph]]

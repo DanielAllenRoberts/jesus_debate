@@ -119,6 +119,28 @@ Folders: `Sources/` · `Source Challenges/` · [[Human Inbox]]
 | S-103 — Jesus and the God of Israel (Bauckham) | book | Bauckham Jesus and the God of Israel | pro | unreviewed | [[S-103 - Bauckham Jesus and the God of Israel]] |
 | S-104 — How Was Jesus God? (Christianity Today on Bauckham) | article | How Was Jesus God CT Bauckham | pro | unreviewed | [[S-104 - How Was Jesus God CT Bauckham]] |
 
+
+| S-105 — Divine Hiddenness Argument (IEP) | article | Divine Hiddenness Argument (IEP) | anti | unreviewed | [[S-105 - Divine Hiddenness Argument (IEP)]] |
+| S-106 — The Hiddenness Argument (Schellenberg 2015) | book | Schellenberg Hiddenness Argument | anti | unreviewed | [[S-106 - The Hiddenness Argument (Schellenberg 2015)]] |
+| S-107 — God, Freedom, and Evil (Plantinga) | book | Plantinga God Freedom and Evil | pro | unreviewed | [[S-107 - God Freedom and Evil (Plantinga)]] |
+| S-108 — Evidential Problem of Evil (IEP) | article | Evidential Problem of Evil (IEP) | anti | unreviewed | [[S-108 - Evidential Problem of Evil (IEP)]] |
+| S-109 — The Resurrection of God Incarnate (Swinburne) | book | Swinburne Resurrection of God Incarnate | pro | unreviewed | [[S-109 - The Resurrection of God Incarnate (Swinburne)]] |
+| S-110 — NDPR review Swinburne Resurrection | article | NDPR Swinburne review | both | unreviewed | [[S-110 - NDPR review Swinburne Resurrection]] |
+| S-111 — Skeptical Theism (SEP) | article | Skeptical Theism (SEP) | pro | unreviewed | [[S-111 - Skeptical Theism (SEP)]] |
+| S-112 — Skeptical Theism (IEP) | article | Skeptical Theism (IEP) | both | unreviewed | [[S-112 - Skeptical Theism (IEP)]] |
+| S-113 — Resurrecting Jesus (Allison 2005) | book | Allison Resurrecting Jesus | both | unreviewed | [[S-113 - Resurrecting Jesus (Allison 2005)]] |
+| S-114 — Crossan burial/empty-tomb skepticism | book | Crossan burial skepticism | anti | unreviewed | [[S-114 - Crossan burial empty-tomb skepticism]] |
+| S-115 — Lüdemann vision model deepened | book | Lüdemann vision deepened | anti | unreviewed | [[S-115 - Lüdemann vision model deepened]] |
+| S-116 — Habermas empty-tomb historicity deepened | article | Habermas empty tomb deepened | pro | unreviewed | [[S-116 - Habermas empty tomb historicity essay]] |
+| S-117 — How God Became Jesus (Bird et al.) | book | Bird et al How God Became Jesus | pro | unreviewed | [[S-117 - How God Became Jesus (Bird et al)]] |
+| S-118 — How Jesus Became God (Ehrman deepened R07) | book | Ehrman How Jesus Became God deepened | anti | unreviewed | [[S-118 - How Jesus Became God (Ehrman deepened R07)]] |
+| S-119 — The Preexistent Son (Gathercole) | book | Gathercole Preexistent Son | pro | unreviewed | [[S-119 - Preexistent Son (Gathercole)]] |
+| S-120 — Lord Jesus Christ (Hurtado deepened) | book | Hurtado Lord Jesus Christ deepened | pro | unreviewed | [[S-120 - Lord Jesus Christ (Hurtado deepened)]] |
+| S-121 — Is God a Moral Monster? (Copan) | book | Copan Moral Monster | pro | unreviewed | [[S-121 - Is God a Moral Monster (Copan)]] |
+| S-122 — Disturbing Divine Behavior (Seibert) | book | Seibert Disturbing Divine Behavior | anti | unreviewed | [[S-122 - Disturbing Divine Behavior (Seibert)]] |
+| S-123 — Direction review Seibert solution costs | article | Direction Seibert review | both | unreviewed | [[S-123 - Direction review Seibert solution costs]] |
+| S-124 — Moral Arguments for God (SEP deepened) | article | SEP Moral Arguments deepened | both | unreviewed | [[S-124 - Moral Arguments for God (SEP deepened)]] |
+
 ## Source Challenges Index
 
-[[SC-001|SC-001 — Challenge to S-047 minimal facts consensus rhetoric]] · [[SC-002|SC-002 — Challenge to S-016 as Foundation-grade philosophy]] · [[SC-003|SC-003 — Challenge to S-006 as primary historical scholarship]] · [[SC-004|SC-004 — Challenge to S-076 overclaiming universal post-70 consensus]] · [[SC-005|SC-005 — Challenge to one-sided use of S-049]] · [[SC-006|SC-006 — Limit S-104 as primary]]
+[[SC-001|SC-001 — Challenge to S-047 minimal facts consensus rhetoric]] · [[SC-002|SC-002 — Challenge to S-016 as Foundation-grade philosophy]] · [[SC-003|SC-003 — Challenge to S-006 as primary historical scholarship]] · [[SC-004|SC-004 — Challenge to S-076 overclaiming universal post-70 consensus]] · [[SC-005|SC-005 — Challenge to one-sided use of S-049]] · [[SC-006|SC-006 — Limit S-104 as primary]] · [[SC-007|SC-007]] · [[SC-008|SC-008]] · [[SC-009|SC-009]] · [[SC-010|SC-010]] · [[SC-011|SC-011]]

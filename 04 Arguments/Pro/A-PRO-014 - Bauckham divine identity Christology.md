@@ -50,3 +50,7 @@ Divine-identity reading is a scholarly thesis, not automatic orthodoxy. Anti may
 ## Anticipated objections
 
 Ehrman exaltation arc ([[S-025|Ehrman, How Jesus Became God]]); pluriform Christianity ([[S-029|Bauer, Orthodoxy and Heresy]]).
+
+## R07 expansion — Bird/Gathercole reinforcement
+
+R07 adds [[A-PRO-022|Bird/Gathercole early divine identity vs Ehrman timeline]] and [[S-117|How God Became Jesus]], [[S-119|Gathercole Preexistent Son]], [[S-120|Hurtado deepened]] as reinforcement that first-century divine-identity/devotion grammar is not Ehrman-only territory. Pro still grants Nicene technical vocabulary later and does not claim Proven while [[C-A003|Later Nicene construction]] remains Strengthened.

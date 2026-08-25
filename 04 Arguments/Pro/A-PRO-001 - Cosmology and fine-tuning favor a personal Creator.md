@@ -69,3 +69,7 @@ Anti may use the same Bayesian/comparative method: if Pro treats unexplained cos
 - Mackie/Oppy-style dismantling of classical proofs ([[S-021|Mackie, Miracle of Theism]], [[S-022|Oppy, Arguing about Gods]]).
 - Evil and hiddenness as decisive negative evidence ([[S-060|SEP Problem of Evil]]–[[S-063|Schellenberg, Divine Hiddenness]]).
 - Multiverse / brute-fact replies to fine-tuning ([[S-024|Stenger, God: The Failed Hypothesis]], [[S-016|Dawkins, God Delusion]]).
+
+## R04 expansion — underdetermination acknowledged
+
+After R03–R04, Pro still holds that cosmology and fine-tuning raise the probability of a personal Creator ([[S-013|SEP Cosmological Argument]], [[S-014|SEP Teleological Arguments]], [[S-033|Fine-Tuning]]). But Pro now explicitly grants Anti’s underdetermination point ([[R-008|Cosmology underdetermines classical God]]): physical beginnings and life-permitting constants do **not** by themselves identify classical theism’s perfect love or answer Schellenberg hiddenness ([[A-ANTI-012|Schellenberg nonresistant nonbelief]]). Fine-tuning must be weighed *against* evidential evil and hiddenness ([[A-ANTI-013|Evidential evil plus hiddenness]]), not treated as a solo Proven trigger. See also [[A-PRO-016|Free-will defense]] and [[A-PRO-017|Relationship goods respond to hiddenness]].

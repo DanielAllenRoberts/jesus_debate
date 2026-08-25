@@ -28,6 +28,15 @@ Skimmer note: every ID cell includes a short title so you can read the fight wit
 | [[A-PRO-013|A-PRO-013 — Cultic devotion shows early divine honor]] | [[C-003|Jesus Son of God died for sins]] | R02 | Cultic devotion shows early divine honor |
 | [[A-PRO-014|A-PRO-014 — Bauckham divine identity Christology]] | [[C-003|Jesus Son of God died for sins]] | R03 | Bauckham divine identity Christology |
 | [[A-PRO-015|A-PRO-015 — Miracle testimony can be historically weighed]] | [[C-006|Resurrection]] | R03 | Miracle testimony can be historically weighed |
+| [[A-PRO-016|A-PRO-016 — Free-will defense blocks logical evil as Refutation]] | [[C-001|God exists]] | R04 | Free-will defense blocks logical evil as Refutation |
+| [[A-PRO-017|A-PRO-017 — Relationship goods respond to hiddenness]] | [[C-001|God exists]] | R04 | Relationship goods respond to hiddenness |
+| [[A-PRO-018|A-PRO-018 — Swinburne Bayesian resurrection with theistic background]] | [[C-006|Resurrection]] | R05 | Swinburne Bayesian resurrection with theistic background |
+| [[A-PRO-019|A-PRO-019 — Skeptical theism plus natural theology Strengthens C-001]] | [[C-001|God exists]] | R05 | Skeptical theism plus natural theology Strengthens C-001 |
+| [[A-PRO-020|A-PRO-020 — Appearances plus burial residues resist pure vision]] | [[C-006|Resurrection]] | R06 | Appearances plus burial residues resist pure vision |
+| [[A-PRO-021|A-PRO-021 — Crossan burial skepticism is contested not consensus]] | [[C-006|Resurrection]] | R06 | Crossan burial skepticism is contested not consensus |
+| [[A-PRO-022|A-PRO-022 — Bird/Gathercole early divine identity vs Ehrman timeline]] | [[C-003|Jesus Son of God died for sins]] | R07 | Bird/Gathercole early divine identity vs Ehrman timeline |
+| [[A-PRO-023|A-PRO-023 — Contextual OT ethics softens moral monster charge]] | [[C-002|God of the Bible]] | R08 | Contextual OT ethics softens moral monster charge |
+| [[A-PRO-024|A-PRO-024 — Progressive revelation and Christocentric reading]] | [[C-002|God of the Bible]] | R08 | Progressive revelation and Christocentric reading |
 
 ## Anti
 
@@ -44,3 +53,13 @@ Skimmer note: every ID cell includes a short title so you can read the fight wit
 | [[A-ANTI-009|A-ANTI-009 — Inductive atheism and natural theology failure]] | [[C-A002|No classical theistic God]] | R02 | Inductive atheism and natural theology failure |
 | [[A-ANTI-010|A-ANTI-010 — Humean miracle epistemology still dominates]] | [[C-A001|Resurrection did not occur]] | R03 | Humean miracle epistemology still dominates |
 | [[A-ANTI-011|A-ANTI-011 — Moral theism gap blocks biblical identification]] | [[C-002|God of the Bible]] | R03 | Moral theism gap blocks biblical identification |
+| [[A-ANTI-012|A-ANTI-012 — Schellenberg nonresistant nonbelief]] | [[C-A002|No classical theistic God]] | R04 | Schellenberg nonresistant nonbelief |
+| [[A-ANTI-013|A-ANTI-013 — Evidential evil plus hiddenness cumulative atheology]] | [[C-A002|No classical theistic God]] | R04 | Evidential evil plus hiddenness cumulative atheology |
+| [[A-ANTI-014|A-ANTI-014 — Miracle priors still swamp Swinburne numbers]] | [[C-A001|Resurrection did not occur]] | R05 | Miracle priors still swamp Swinburne numbers |
+| [[A-ANTI-015|A-ANTI-015 — Skeptical theism overreaches into moral skepticism]] | [[C-A002|No classical theistic God]] | R05 | Skeptical theism overreaches into moral skepticism |
+| [[A-ANTI-016|A-ANTI-016 — Lüdemann grief-vision model Strengthens no-resurrection]] | [[C-A001|Resurrection did not occur]] | R06 | Lüdemann grief-vision model Strengthens no-resurrection |
+| [[A-ANTI-017|A-ANTI-017 — Empty tomb as secondary legend]] | [[C-A001|Resurrection did not occur]] | R06 | Empty tomb as secondary legend |
+| [[A-ANTI-018|A-ANTI-018 — Ehrman exaltation arc still explains development]] | [[C-A003|Nicene Christianity later construction]] | R07 | Ehrman exaltation arc still explains development |
+| [[A-ANTI-019|A-ANTI-019 — Early devotion is post-Easter not Jesus self-claim]] | [[C-A003|Nicene Christianity later construction]] | R07 | Early devotion is post-Easter not Jesus self-claim |
+| [[A-ANTI-020|A-ANTI-020 — Seibert gap shows biblical identification still soft]] | [[C-002|God of the Bible]] | R08 | Seibert gap shows biblical identification still soft |
+| [[A-ANTI-021|A-ANTI-021 — Moral lawgiver still not automatically Yahweh of herem]] | [[C-002|God of the Bible]] | R08 | Moral lawgiver still not automatically Yahweh of herem |

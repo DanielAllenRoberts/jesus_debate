@@ -20,4 +20,15 @@ Each row is a Neutral [[Score History|Score Event]]: what claim moved, from whic
 | [[SE-008|SE-008: C-002 Weakened −2.0]] | [[C-002|C-002 — God of the Bible]] | Contested → Weakened | 55.25 → 53.25 | N1–N10 | n/a | Moral/identity gap Weakens biblical identification; C-001 not Refuted |
 | [[SE-009|SE-009: Remainder Contested (0)]] | remainder | Contested confirm | 53.25 → 53.25 | N1–N10 | watch | C-001 / C-A001 / C-A002 Contested; Humean bar holds on Easter Proven |
 
-No Proven or Refuted issued R01–R03 (conservative Neutral policy).
+| [[SE-010|SE-010: C-A002 Strengthened −2.0]] | [[C-A002|No classical God]] | Contested → Strengthened | 53.25 → 51.25 | N1–N10 | watch | Hiddenness + evidential evil raise Anti foundation support |
+| [[SE-011|SE-011: R04 remainder (0)]] | multi | confirm | 51.25 → 51.25 | N1–N10 | watch | C-001 Contested (pre-R05); SC-007 upheld |
+| [[SE-012|SE-012: C-001 Strengthened +2.0]] | [[C-001|God exists]] | Contested → Strengthened | 51.25 → 53.25 | N1–N10 | watch | Skeptical theism + natural theology mirror move |
+| [[SE-013|SE-013: R05 mirrors (0)]] | multi | confirm | 53.25 → 53.25 | N1–N10 | watch | SC-008 limits Swinburne numbers; C-A002 stays Strengthened |
+| [[SE-014|SE-014: C-A001 Strengthened −1.25]] | [[C-A001|No resurrection]] | Contested → Strengthened | 53.25 → 52.0 | N1–N10 | n/a | Vision model + tomb pressure; Easter dual mirrors |
+| [[SE-015|SE-015: R06 mirrors (0)]] | multi | confirm | 52.0 → 52.0 | N1–N10 | watch | C-006 stays Strengthened; SC-009 upheld |
+| [[SE-016|SE-016: R07 christology (0)]] | C-003 / C-A003 | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Ehrman↔Bird deepen; SC-010 upheld |
+| [[SE-017|SE-017: R07 remainder (0)]] | multi | confirm | 52.0 → 52.0 | N1–N10 | watch | Board confirm |
+| [[SE-018|SE-018: C-002 Weakened confirm (0)]] | [[C-002|God of the Bible]] | Weakened confirm | 52.0 → 52.0 | N1–N10 | watch | No Contested recovery; SC-011 upheld |
+| [[SE-019|SE-019: R08 final locks (0)]] | multi | lock | 52.0 → **52.0** | N1–N10 | watch | End-cycle lock |
+
+No Proven or Refuted issued R01–R08 (conservative Neutral policy).
