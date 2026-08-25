@@ -24,7 +24,7 @@ round: R01
 - Title: The Resurrection of the Son of God
 - Author: N. T. Wright
 - Year: 2003
-- URL: https://www.fortresspress.com/store/product/9780800626792/The-Resurrection-of-the-Son-of-God
+- URL: [The Resurrection of the Son of God](https://www.fortresspress.com/store/product/9780800626792/The-Resurrection-of-the-Son-of-God)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ historical
 ## Popularity / influence
 
 Landmark academic volume.
+
+
+## Related arguments
+
+[[A-PRO-004 - Minimal facts best explained by resurrection|A-PRO-004]]
 
 ## Challenges
 

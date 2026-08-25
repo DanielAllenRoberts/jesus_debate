@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-08"
 - Title: Why Date the Gospels after 70 CE?
 - Author: Bart D. Ehrman
 - Year: blog post (reproduces textbook argument)
-- URL: https://ehrmanblog.org/why-date-the-gospels-after-70-ce/
+- URL: [Why Date the Gospels after 70 CE?](https://ehrmanblog.org/why-date-the-gospels-after-70-ce/)
 
 ## Summary (neutral)
 

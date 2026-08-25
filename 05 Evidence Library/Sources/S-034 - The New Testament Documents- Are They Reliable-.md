@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-21"
 - Title: The New Testament Documents: Are They Reliable?
 - Author: F. F. Bruce
 - Year: 1943 (classic; later eds. still in print
-- URL: https://www.ffbruce.com/the-new-testament-documents/
+- URL: [The New Testament Documents: Are They Reliable?](https://www.ffbruce.com/the-new-testament-documents/)
 
 ## Summary (neutral)
 

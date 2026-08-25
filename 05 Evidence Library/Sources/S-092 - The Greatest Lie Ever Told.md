@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-14"
 - Title: The Greatest Lie Ever Told
 - Author: Matty Arnold / Atheist Republic
 - Year: n/d (AR blog)
-- URL: https://www.atheistrepublic.com/blog/mattyarnold/greatest-lie-ever-told
+- URL: [The Greatest Lie Ever Told](https://www.atheistrepublic.com/blog/mattyarnold/greatest-lie-ever-told)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-06"
 - Title: Stephen Fry on God | The Meaning of Life | RTÉ One
 - Author: Stephen Fry (interviewed by Gay Byrne)
 - Year: 2015 (broadcast/clip)
-- URL: https://www.youtube.com/watch?v=-suvkwNYSQo
+- URL: [Stephen Fry on God | The Meaning of Life | RTÉ One](https://www.youtube.com/watch?v=-suvkwNYSQo)
 
 ## Summary (neutral)
 

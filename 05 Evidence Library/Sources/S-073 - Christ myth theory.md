@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-02"
 - Title: Christ myth theory
 - Author: Wikipedia contributors
 - Year: ongoing
-- URL: https://en.wikipedia.org/wiki/Christ_myth_theory
+- URL: [Christ myth theory](https://en.wikipedia.org/wiki/Christ_myth_theory)
 
 ## Summary (neutral)
 

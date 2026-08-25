@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-11"
 - Title: Who Killed Jesus?: Exposing the Roots of Anti-Semitism in the Gospel Story of the Death of Jesus
 - Author: John Dominic Crossan
 - Year: 1995
-- URL: https://books.google.com/books/about/Who_Killed_Jesus.html?id=SNWCGwAACAAJ
+- URL: [Who Killed Jesus?: Exposing the Roots of Anti-Semitism in the Gospel Story of the Death of Jesus](https://books.google.com/books/about/Who_Killed_Jesus.html?id=SNWCGwAACAAJ)
 
 ## Summary (neutral)
 

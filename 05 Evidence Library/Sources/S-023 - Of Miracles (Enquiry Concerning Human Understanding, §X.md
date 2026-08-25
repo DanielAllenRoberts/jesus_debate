@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-08"
 - Title: Of Miracles (Enquiry Concerning Human Understanding, §X)
 - Author: David Hume
 - Year: 1748
-- URL: https://davidhume.org/texts/e/10
+- URL: [Of Miracles (Enquiry Concerning Human Understanding, §X)](https://davidhume.org/texts/e/10)
 
 ## Summary (neutral)
 

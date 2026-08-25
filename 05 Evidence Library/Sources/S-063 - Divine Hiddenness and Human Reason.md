@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-05"
 - Title: Divine Hiddenness and Human Reason
 - Author: J. L. Schellenberg
 - Year: 1993 (Cornell UP; later paperback eds.)
-- URL: https://cornellpress.cornell.edu/book/9780801427923/divine-hiddenness-and-human-reason/
+- URL: [Divine Hiddenness and Human Reason](https://cornellpress.cornell.edu/book/9780801427923/divine-hiddenness-and-human-reason/)
 
 ## Summary (neutral)
 

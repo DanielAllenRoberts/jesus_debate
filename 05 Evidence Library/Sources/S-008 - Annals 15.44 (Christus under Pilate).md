@@ -24,7 +24,7 @@ round: R01
 - Title: Annals 15.44 (Christus under Pilate)
 - Author: Tacitus
 - Year: c. 116 CE
-- URL: https://en.wikipedia.org/wiki/Tacitus_on_Jesus
+- URL: [Annals 15.44 (Christus under Pilate)](https://en.wikipedia.org/wiki/Tacitus_on_Jesus)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ historical
 ## Popularity / influence
 
 Among most-cited extrabiblical references.
+
+
+## Related arguments
+
+[[A-PRO-003 - Historical Jesus and crucifixion are historically secure|A-PRO-003]]
 
 ## Challenges
 

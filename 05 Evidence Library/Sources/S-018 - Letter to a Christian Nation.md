@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-03"
 - Title: Letter to a Christian Nation
 - Author: Sam Harris
 - Year: 2006
-- URL: https://www.penguinrandomhouse.com/books/76060/letter-to-a-christian-nation-by-sam-harris/
+- URL: [Letter to a Christian Nation](https://www.penguinrandomhouse.com/books/76060/letter-to-a-christian-nation-by-sam-harris/)
 
 ## Summary (neutral)
 

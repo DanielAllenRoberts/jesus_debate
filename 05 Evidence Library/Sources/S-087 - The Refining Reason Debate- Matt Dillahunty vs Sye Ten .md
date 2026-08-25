@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-09"
 - Title: The Refining Reason Debate: Matt Dillahunty vs Sye Ten Bruggencate
 - Author: Matt Dillahunty / TheThinkingAtheist
 - Year: 2014
-- URL: https://www.youtube.com/watch?v=OL8LREmbDi0
+- URL: [The Refining Reason Debate: Matt Dillahunty vs Sye Ten Bruggencate](https://www.youtube.com/watch?v=OL8LREmbDi0)
 
 ## Summary (neutral)
 

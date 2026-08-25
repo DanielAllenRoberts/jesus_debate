@@ -24,7 +24,7 @@ round: R01
 - Title: Reasonable Faith: Christian Truth and Apologetics (3rd ed.)
 - Author: William Lane Craig
 - Year: 2008
-- URL: https://www.crossway.org/books/reasonable-faith-tpb/
+- URL: [Reasonable Faith: Christian Truth and Apologetics (3rd ed.)](https://www.crossway.org/books/reasonable-faith-tpb/)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ philosophical | historical
 ## Popularity / influence
 
 Core evangelical apologetics textbook.
+
+
+## Related arguments
+
+[[A-PRO-001 - Cosmology and fine-tuning favor a personal Creator|A-PRO-001]], [[A-PRO-002 - Moral law points to biblical theism|A-PRO-002]], [[A-PRO-005 - Resurrection vindicates divine identity and atonement|A-PRO-005]]
 
 ## Challenges
 

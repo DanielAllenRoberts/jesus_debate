@@ -24,7 +24,7 @@ round: R01
 - Title: Cosmological Argument (SEP)
 - Author: Stanford Encyclopedia of Philosophy
 - Year: 
-- URL: https://plato.stanford.edu/entries/cosmological-argument/
+- URL: [Cosmological Argument (SEP)](https://plato.stanford.edu/entries/cosmological-argument/)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ philosophical
 ## Popularity / influence
 
 Standard philosophy reference.
+
+
+## Related arguments
+
+[[A-PRO-001 - Cosmology and fine-tuning favor a personal Creator|A-PRO-001]]
 
 ## Challenges
 

@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-32"
 - Title: Jesus: A Revolutionary Biography
 - Author: John Dominic Crossan
 - Year: 1994
-- URL: https://books.google.com/books/about/Jesus.html?id=R76BnTswxEsC
+- URL: [Jesus: A Revolutionary Biography](https://books.google.com/books/about/Jesus.html?id=R76BnTswxEsC)
 
 ## Summary (neutral)
 

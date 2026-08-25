@@ -30,6 +30,6 @@ aliases:
 
 | Status | Submission |
 |--------|------------|
-| waiting (optional) | [[H-001 - Bonnet Thoughts Christianity Origins\|H-001 Bonnet Thoughts]] — agents not required to cite |
+| waiting (optional) | [[H-001 - Bonnet Thoughts Christianity Origins|H-001 Bonnet Thoughts]] — agents not required to cite |
 
 Folder: `05 Evidence Library/Human Inbox/`

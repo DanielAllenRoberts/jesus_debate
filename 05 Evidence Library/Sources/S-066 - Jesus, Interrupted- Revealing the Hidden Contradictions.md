@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-09"
 - Title: Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don’t Know About Them)
 - Author: Bart D. Ehrman
 - Year: 2009
-- URL: https://www.harpercollins.com/products/jesus-interrupted-bart-d-ehrman
+- URL: [Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don’t Know About Them)](https://www.harpercollins.com/products/jesus-interrupted-bart-d-ehrman)
 
 ## Summary (neutral)
 

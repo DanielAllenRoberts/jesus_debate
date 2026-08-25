@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-11"
 - Title: Misquoting Jesus
 - Author: Bart D. Ehrman
 - Year: 2005
-- URL: https://www.harpercollins.com/products/misquoting-jesus-bart-d-ehrman
+- URL: [Misquoting Jesus](https://www.harpercollins.com/products/misquoting-jesus-bart-d-ehrman)
 
 ## Summary (neutral)
 

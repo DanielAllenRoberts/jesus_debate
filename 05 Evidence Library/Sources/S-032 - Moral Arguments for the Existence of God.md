@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-16"
 - Title: Moral Arguments for the Existence of God
 - Author: C. Stephen Evans; David Baggett
 - Year: 2022 (SEP Winter 2022 archive)
-- URL: https://plato.stanford.edu/archives/win2022/entries/moral-arguments-god/
+- URL: [Moral Arguments for the Existence of God](https://plato.stanford.edu/archives/win2022/entries/moral-arguments-god/)
 
 ## Summary (neutral)
 

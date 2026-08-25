@@ -24,7 +24,7 @@ round: R01
 - Title: The Case for the Resurrection of Jesus
 - Author: Gary R. Habermas & Michael R. Licona
 - Year: 2004
-- URL: https://www.kregel.com/theology-and-religious-studies/the-case-for-the-resurrection-of-jesus-6964/
+- URL: [The Case for the Resurrection of Jesus](https://www.kregel.com/theology-and-religious-studies/the-case-for-the-resurrection-of-jesus-6964/)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ historical
 ## Popularity / influence
 
 Widely used campus/church apologetics template.
+
+
+## Related arguments
+
+[[A-PRO-004 - Minimal facts best explained by resurrection|A-PRO-004]]
 
 ## Challenges
 

@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-04"
 - Title: Breaking the Spell: Religion as a Natural Phenomenon
 - Author: Daniel C. Dennett
 - Year: 2006
-- URL: https://www.penguinrandomhouse.com/books/294244/breaking-the-spell-by-daniel-c-dennett/
+- URL: [Breaking the Spell: Religion as a Natural Phenomenon](https://www.penguinrandomhouse.com/books/294244/breaking-the-spell-by-daniel-c-dennett/)
 
 ## Summary (neutral)
 

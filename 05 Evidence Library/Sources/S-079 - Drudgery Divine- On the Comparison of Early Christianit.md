@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-13"
 - Title: Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity
 - Author: Jonathan Z. Smith
 - Year: 1990
-- URL: https://press.uchicago.edu/ucp/books/book/chicago/D/bo3619682.html
+- URL: [Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity](https://press.uchicago.edu/ucp/books/book/chicago/D/bo3619682.html)
 
 ## Summary (neutral)
 

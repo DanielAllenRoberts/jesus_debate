@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-09"
 - Title: “The New Atheism and Five Arguments for God”
 - Author: William Lane Craig
 - Year: c. 2010 (RF “popular writings”)
-- URL: https://www.reasonablefaith.org/writings/popular-writings/existence-natureof-god/the-new-atheism-and-five-arguments-for-god
+- URL: [“The New Atheism and Five Arguments for God”](https://www.reasonablefaith.org/writings/popular-writings/existence-natureof-god/the-new-atheism-and-five-arguments-for-god)
 
 ## Summary (neutral)
 

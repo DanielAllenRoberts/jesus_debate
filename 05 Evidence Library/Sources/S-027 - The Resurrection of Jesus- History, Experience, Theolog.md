@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-12"
 - Title: The Resurrection of Jesus: History, Experience, Theology
 - Author: Gerd Lüdemann
 - Year: 1994
-- URL: https://www.fortresspress.com/store/product/9780800627928/The-Resurrection-of-Jesus
+- URL: [The Resurrection of Jesus: History, Experience, Theology](https://www.fortresspress.com/store/product/9780800627928/The-Resurrection-of-Jesus)
 
 ## Summary (neutral)
 

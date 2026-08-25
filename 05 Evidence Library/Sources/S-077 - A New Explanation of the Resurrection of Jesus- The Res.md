@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-10"
 - Title: A New Explanation of the Resurrection of Jesus: The Result of Mourning
 - Author: Gerd Lüdemann
 - Year: (BibleInterp essay summarizing his thesi
-- URL: https://bibleinterp.arizona.edu/articles/lud368017
+- URL: [A New Explanation of the Resurrection of Jesus: The Result of Mourning](https://bibleinterp.arizona.edu/articles/lud368017)
 
 ## Summary (neutral)
 

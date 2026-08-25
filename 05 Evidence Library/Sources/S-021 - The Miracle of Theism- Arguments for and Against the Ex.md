@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-06"
 - Title: The Miracle of Theism: Arguments for and Against the Existence of God
 - Author: J. L. Mackie
 - Year: 1982
-- URL: https://books.google.com/books/about/The_Miracle_of_Theism.html?id=x0Iv-QkYpjIC
+- URL: [The Miracle of Theism: Arguments for and Against the Existence of God](https://books.google.com/books/about/The_Miracle_of_Theism.html?id=x0Iv-QkYpjIC)
 
 ## Summary (neutral)
 

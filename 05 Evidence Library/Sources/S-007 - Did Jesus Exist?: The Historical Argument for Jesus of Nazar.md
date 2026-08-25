@@ -24,7 +24,7 @@ round: R01
 - Title: Did Jesus Exist?: The Historical Argument for Jesus of Nazareth
 - Author: Bart D. Ehrman
 - Year: 2012
-- URL: https://www.harpercollins.com/products/did-jesus-exist-bart-d-ehrman
+- URL: [Did Jesus Exist?: The Historical Argument for Jesus of Nazareth](https://www.harpercollins.com/products/did-jesus-exist-bart-d-ehrman)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ historical
 ## Popularity / influence
 
 High-profile rebuttal to mythicism.
+
+
+## Related arguments
+
+[[A-PRO-003 - Historical Jesus and crucifixion are historically secure|A-PRO-003]]
 
 ## Challenges
 

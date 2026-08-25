@@ -21,7 +21,7 @@ optional: true
 ## Source
 
 - **Type:** video  
-- **URL:** https://www.youtube.com/watch?v=xLjYOekImBA  
+- **URL:** [Bonnet Thoughts — Where Did Christianity Come From](https://www.youtube.com/watch?v=xLjYOekImBA)  
 - **Creator / channel:** Bonnet Thoughts (per filename / transcript)  
 - **Why submitted:** Human found it interesting; covers Paul, Nicene Christianity, councils, origins narrative.  
 - **Transcript:** [[where did christianity come from - bonnetthoughts]]
@@ -32,10 +32,10 @@ optional: true
 
 ## Claims it might touch (if later engaged)
 
-- Jesus’s self-understanding / divinity claims  
-- Paul’s role vs. Jesus’s message  
-- Formation of canon / creeds / empire  
-- Heaven, hell, Satan as later constructions  
+- Jesus’s self-understanding / divinity claims — possible: [[C-003]], [[C-A003]]
+- Paul’s role vs. Jesus’s message — possible: [[C-A003]], [[C-003]]
+- Formation of canon / creeds / empire — possible: [[C-A003]]
+- Heaven, hell, Satan as later constructions — possible: [[C-A001]], [[C-A002]]
 
 ## Agent handoff
 

@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-15"
 - Title: The Kalam Argument
 - Author: William Lane Craig
 - Year: 2015 (lecture text; Reasonable Faith pop
-- URL: https://www.reasonablefaith.org/writings/popular-writings/existence-nature-ofgod/the-kalam-cosmological-argument/
+- URL: [The Kalam Argument](https://www.reasonablefaith.org/writings/popular-writings/existence-nature-ofgod/the-kalam-cosmological-argument/)
 
 ## Summary (neutral)
 

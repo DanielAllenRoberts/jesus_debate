@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-11"
 - Title: The Privileged Planet (documentary)
 - Author: Guillermo Gonzalez & Jay W. Richards (book); Illustra Media / Lad Allen (film)
 - Year: 2004
-- URL: https://theprivilegedplanet.com/about/
+- URL: [The Privileged Planet (documentary)](https://theprivilegedplanet.com/about/)
 
 ## Summary (neutral)
 

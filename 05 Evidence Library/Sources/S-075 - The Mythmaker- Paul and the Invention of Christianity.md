@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-07"
 - Title: The Mythmaker: Paul and the Invention of Christianity
 - Author: Hyam Maccoby
 - Year: 1986
-- URL: https://books.google.com/books/about/The_Mythmaker.html?id=I44KAQAAMAAJ
+- URL: [The Mythmaker: Paul and the Invention of Christianity](https://books.google.com/books/about/The_Mythmaker.html?id=I44KAQAAMAAJ)
 
 ## Summary (neutral)
 

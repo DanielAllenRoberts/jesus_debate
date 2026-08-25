@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-23"
 - Title: The Text of the New Testament: Its Transmission, Corruption, and Restoration (4th ed.)
 - Author: Bruce M. Metzger; Bart D. Ehrman
 - Year: 2005
-- URL: https://books.google.com/books/about/The_Text_of_the_New_Testament.html?id=6De-QgAACAAJ
+- URL: [The Text of the New Testament: Its Transmission, Corruption, and Restoration (4th ed.)](https://books.google.com/books/about/The_Text_of_the_New_Testament.html?id=6De-QgAACAAJ)
 
 ## Summary (neutral)
 

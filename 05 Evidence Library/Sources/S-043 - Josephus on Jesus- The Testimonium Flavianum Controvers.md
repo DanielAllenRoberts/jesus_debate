@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-30"
 - Title: Josephus on Jesus: The Testimonium Flavianum Controversy from Late Antiquity to Modern Times
 - Author: Alice Whealey
 - Year: 2003
-- URL: https://www.peterlang.com/document/1096493
+- URL: [Josephus on Jesus: The Testimonium Flavianum Controversy from Late Antiquity to Modern Times](https://www.peterlang.com/document/1096493)
 
 ## Summary (neutral)
 

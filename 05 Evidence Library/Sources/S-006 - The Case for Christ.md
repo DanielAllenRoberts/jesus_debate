@@ -24,7 +24,7 @@ round: R01
 - Title: The Case for Christ
 - Author: Lee Strobel
 - Year: 1998
-- URL: https://zondervanacademic.com/products/the-case-for-christ
+- URL: [The Case for Christ](https://zondervanacademic.com/products/the-case-for-christ)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ historical
 ## Popularity / influence
 
 Publisher: over 5 million copies; film adaptation.
+
+
+## Related arguments
+
+[[A-PRO-003 - Historical Jesus and crucifixion are historically secure|A-PRO-003]], [[A-PRO-004 - Minimal facts best explained by resurrection|A-PRO-004]]
 
 ## Challenges
 

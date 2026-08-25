@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-31"
 - Title: The Historical Figure of Jesus
 - Author: E. P. Sanders
 - Year: 1993 (Penguin pbk 1996)
-- URL: https://penguinrandomhousehighereducation.com/book/?isbn=9780140144994
+- URL: [The Historical Figure of Jesus](https://penguinrandomhousehighereducation.com/book/?isbn=9780140144994)
 
 ## Summary (neutral)
 

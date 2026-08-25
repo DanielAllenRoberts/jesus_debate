@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-13"
 - Title: Why There Is No God: Simple Responses to 20 Common Arguments for the Existence of God
 - Author: Armin Navabi (Atheist Republic founder)
 - Year: 2014
-- URL: https://www.amazon.com/Why-There-God-Responses-Arguments/dp/150277528X
+- URL: [Why There Is No God: Simple Responses to 20 Common Arguments for the Existence of God](https://www.amazon.com/Why-There-God-Responses-Arguments/dp/150277528X)
 
 ## Summary (neutral)
 

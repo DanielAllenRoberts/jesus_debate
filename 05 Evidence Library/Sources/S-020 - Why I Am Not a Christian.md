@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-05"
 - Title: Why I Am Not a Christian
 - Author: Bertrand Russell
 - Year: 1927
-- URL: https://users.drew.edu/~jlenz/whynot.html
+- URL: [Why I Am Not a Christian](https://users.drew.edu/~jlenz/whynot.html)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-03"
 - Title: IS THE BIBLE TRUE? Alex O’Connor (Cosmic Skeptic) vs Dinesh D’Souza
 - Author: Alex O’Connor / Pangburn
 - Year: 2024
-- URL: https://www.youtube.com/watch?v=UMKkX8qRHsw
+- URL: [IS THE BIBLE TRUE? Alex O’Connor (Cosmic Skeptic) vs Dinesh D’Souza](https://www.youtube.com/watch?v=UMKkX8qRHsw)
 
 ## Summary (neutral)
 

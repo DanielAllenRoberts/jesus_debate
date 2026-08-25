@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-10"
 - Title: How Jesus Became God
 - Author: Bart D. Ehrman
 - Year: 2014
-- URL: https://www.bartehrman.com/how-jesus-became-god/
+- URL: [How Jesus Became God](https://www.bartehrman.com/how-jesus-became-god/)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-04"
 - Title: Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church
 - Author: N. T. Wright
 - Year: 2008
-- URL: https://www.harpercollins.com/products/surprised-by-hope-n-t-wright
+- URL: [Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church](https://www.harpercollins.com/products/surprised-by-hope-n-t-wright)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-14"
 - Title: Orthodoxy and Heresy in Earliest Christianity
 - Author: Walter Bauer (ET Kraft/Krodel)
 - Year: 1934 (ET 1971)
-- URL: https://books.google.com/books/about/Orthodoxy_and_Heresy_in_Earliest_Christi.html?id=YDsqAAAAYAAJ
+- URL: [Orthodoxy and Heresy in Earliest Christianity](https://books.google.com/books/about/Orthodoxy_and_Heresy_in_Earliest_Christi.html?id=YDsqAAAAYAAJ)
 
 ## Summary (neutral)
 

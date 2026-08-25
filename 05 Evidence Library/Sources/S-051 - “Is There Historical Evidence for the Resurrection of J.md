@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-05"
 - Title: “Is There Historical Evidence for the Resurrection of Jesus?” (Craig–Ehrman debate transcript)
 - Author: William Lane Craig vs. Bart D. Ehrman
 - Year: 2006
-- URL: https://www.reasonablefaith.org/media/debates/is-there-historical-evidence-for-the-resurrection-of-jesus-the-craig-ehrman/
+- URL: [“Is There Historical Evidence for the Resurrection of Jesus?” (Craig–Ehrman debate transcript)](https://www.reasonablefaith.org/media/debates/is-there-historical-evidence-for-the-resurrection-of-jesus-the-craig-ehrman/)
 
 ## Summary (neutral)
 

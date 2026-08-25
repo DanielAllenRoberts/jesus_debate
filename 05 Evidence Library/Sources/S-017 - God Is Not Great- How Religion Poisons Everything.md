@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-02"
 - Title: God Is Not Great: How Religion Poisons Everything
 - Author: Christopher Hitchens
 - Year: 2007
-- URL: https://www.twelvebooks.com/titles/christopher-hitchens/god-is-not-great/9780446697965/
+- URL: [God Is Not Great: How Religion Poisons Everything](https://www.twelvebooks.com/titles/christopher-hitchens/god-is-not-great/9780446697965/)
 
 ## Summary (neutral)
 

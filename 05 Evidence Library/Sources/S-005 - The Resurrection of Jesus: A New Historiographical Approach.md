@@ -24,7 +24,7 @@ round: R01
 - Title: The Resurrection of Jesus: A New Historiographical Approach
 - Author: Michael R. Licona
 - Year: 2010
-- URL: https://ivpress.com/the-resurrection-of-jesus
+- URL: [The Resurrection of Jesus: A New Historiographical Approach](https://ivpress.com/the-resurrection-of-jesus)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ historical
 ## Popularity / influence
 
 Influential in evangelical NT historiography.
+
+
+## Related arguments
+
+[[A-PRO-004 - Minimal facts best explained by resurrection|A-PRO-004]]
 
 ## Challenges
 

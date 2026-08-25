@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-07"
 - Title: “The Bodily Resurrection of Jesus”
 - Author: Benjamin C. F. Shaw (TGC Concise Theology essay)
 - Year: n.d. (current TGC essay page; amplified 
-- URL: https://www.thegospelcoalition.org/essay/bodily-resurrection-jesus/
+- URL: [“The Bodily Resurrection of Jesus”](https://www.thegospelcoalition.org/essay/bodily-resurrection-jesus/)
 
 ## Summary (neutral)
 

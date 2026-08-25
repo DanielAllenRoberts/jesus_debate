@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-05"
 - Title: Jesus: Evidence and Argument or Mythicist Myths?
 - Author: Maurice Casey
 - Year: 2014
-- URL: https://www.bloomsbury.com/uk/jesus-evidence-and-argument-or-mythicist-myths-9780567447623/
+- URL: [Jesus: Evidence and Argument or Mythicist Myths?](https://www.bloomsbury.com/uk/jesus-evidence-and-argument-or-mythicist-myths-9780567447623/)
 
 ## Summary (neutral)
 

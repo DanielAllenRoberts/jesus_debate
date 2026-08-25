@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-08"
 - Title: Early Christianity Was NOTHING Like You Were Taught!
 - Author: Thomas Westbrook / interview with James Tabor
 - Year: n/d (site essay promoting interview)
-- URL: https://holykoolaid.com/early-christianity-was-nothing-like-you-were-taught/
+- URL: [Early Christianity Was NOTHING Like You Were Taught!](https://holykoolaid.com/early-christianity-was-nothing-like-you-were-taught/)
 
 ## Summary (neutral)
 

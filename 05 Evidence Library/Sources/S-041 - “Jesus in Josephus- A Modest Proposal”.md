@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-28"
 - Title: “Jesus in Josephus: A Modest Proposal”
 - Author: John P. Meier
 - Year: 1990
-- URL: https://pace.biblico.it/bibliography-content?bibl_id=1373
+- URL: [“Jesus in Josephus: A Modest Proposal”](https://pace.biblico.it/bibliography-content?bibl_id=1373)
 
 ## Summary (neutral)
 

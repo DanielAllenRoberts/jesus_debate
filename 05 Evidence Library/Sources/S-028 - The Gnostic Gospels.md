@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-13"
 - Title: The Gnostic Gospels
 - Author: Elaine Pagels
 - Year: 1979
-- URL: https://www.penguinrandomhouse.com/books/126049/the-gnostic-gospels-by-elaine-pagels/
+- URL: [The Gnostic Gospels](https://www.penguinrandomhouse.com/books/126049/the-gnostic-gospels-by-elaine-pagels/)
 
 ## Summary (neutral)
 

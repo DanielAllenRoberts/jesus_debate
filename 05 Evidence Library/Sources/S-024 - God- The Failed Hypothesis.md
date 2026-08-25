@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-09"
 - Title: God: The Failed Hypothesis
 - Author: Victor J. Stenger
 - Year: 2007
-- URL: https://www.simonandschuster.com/books/God-The-Failed-Hypothesis/Victor-J-Stenger/9781591026525
+- URL: [God: The Failed Hypothesis](https://www.simonandschuster.com/books/God-The-Failed-Hypothesis/Victor-J-Stenger/9781591026525)
 
 ## Summary (neutral)
 

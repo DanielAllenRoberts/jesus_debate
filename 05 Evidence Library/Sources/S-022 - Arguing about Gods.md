@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-07"
 - Title: Arguing about Gods
 - Author: Graham Oppy
 - Year: 2006
-- URL: https://www.cambridge.org/core/books/arguing-about-gods/5546FFB3A3EAFF997B12183EA38026D7
+- URL: [Arguing about Gods](https://www.cambridge.org/core/books/arguing-about-gods/5546FFB3A3EAFF997B12183EA38026D7)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-01"
 - Title: The Problem of Evil
 - Author: Michael Tooley (SEP entry)
 - Year: first pub. 2002; substantive rev. 2015 (
-- URL: https://plato.stanford.edu/entries/evil/
+- URL: [The Problem of Evil](https://plato.stanford.edu/entries/evil/)
 
 ## Summary (neutral)
 

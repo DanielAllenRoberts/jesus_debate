@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-06"
 - Title: “Did Jesus Rise from the Dead? – Part One: The Facts” (animated)
 - Author: Reasonable Faith / William Lane Craig (Zangmeister animations)
 - Year: c. 2010s (ongoing RF media)
-- URL: https://www.reasonablefaith.org/media/other-videos/did-jesus-rise-from-the-dead-part-one-the-facts
+- URL: [“Did Jesus Rise from the Dead? – Part One: The Facts” (animated)](https://www.reasonablefaith.org/media/other-videos/did-jesus-rise-from-the-dead-part-one-the-facts)
 
 ## Summary (neutral)
 

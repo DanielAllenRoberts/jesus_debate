@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-12"
 - Title: First Council of Constantinople / Nicene Creed development
 - Author: Encyclopaedia Britannica Editors
 - Year: living reference entries
-- URL: https://www.britannica.com/event/First-Council-of-Constantinople-381
+- URL: [First Council of Constantinople / Nicene Creed development](https://www.britannica.com/event/First-Council-of-Constantinople-381)
 
 ## Summary (neutral)
 

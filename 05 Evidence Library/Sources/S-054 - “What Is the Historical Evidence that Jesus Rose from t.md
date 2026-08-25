@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-08"
 - Title: “What Is the Historical Evidence that Jesus Rose from the Dead?”
 - Author: Justin Taylor
 - Year: 2021
-- URL: https://www.thegospelcoalition.org/blogs/justin-taylor/what-is-the-historical-evidence-that-jesus-rose-from-the-dead/
+- URL: [“What Is the Historical Evidence that Jesus Rose from the Dead?”](https://www.thegospelcoalition.org/blogs/justin-taylor/what-is-the-historical-evidence-that-jesus-rose-from-the-dead/)
 
 ## Summary (neutral)
 

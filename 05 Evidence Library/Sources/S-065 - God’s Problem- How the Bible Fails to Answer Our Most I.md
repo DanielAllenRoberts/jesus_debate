@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-07"
 - Title: God’s Problem: How the Bible Fails to Answer Our Most Important Question—Why We Suffer
 - Author: Bart D. Ehrman
 - Year: 2008 (HC lists related sale dates; Harpe
-- URL: https://www.harpercollins.com/products/gods-problem-bart-d-ehrman
+- URL: [God’s Problem: How the Bible Fails to Answer Our Most Important Question—Why We Suffer](https://www.harpercollins.com/products/gods-problem-bart-d-ehrman)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-15"
 - Title: Religion and Science (SEP) — plus Numbers myth-busting companion
 - Author: Helen De Cruz (SEP); Ronald L. Numbers (ed.)
 - Year: SEP live entry; Numbers volume 2009
-- URL: https://plato.stanford.edu/entries/religion-science/
+- URL: [Religion and Science (SEP) — plus Numbers myth-busting companion](https://plato.stanford.edu/entries/religion-science/)
 
 ## Summary (neutral)
 

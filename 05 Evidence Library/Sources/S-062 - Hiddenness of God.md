@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-04"
 - Title: Hiddenness of God
 - Author: Adam Green / SEP editors (entry)
 - Year: live SEP entry (Schellenberg tradition f
-- URL: https://plato.stanford.edu/entries/divine-hiddenness/
+- URL: [Hiddenness of God](https://plato.stanford.edu/entries/divine-hiddenness/)
 
 ## Summary (neutral)
 

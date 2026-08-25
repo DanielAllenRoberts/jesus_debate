@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-04"
 - Title: Debate: Did Jesus Rise From the Dead? — Trent Horn vs Alex O’Connor
 - Author: Alex O’Connor / Unbelievable?
 - Year: 2026 (episode release per Premier Unbeli
-- URL: https://www.youtube.com/watch?v=Bu-7IHp3oGQ
+- URL: [Debate: Did Jesus Rise From the Dead? — Trent Horn vs Alex O’Connor](https://www.youtube.com/watch?v=Bu-7IHp3oGQ)
 
 ## Summary (neutral)
 

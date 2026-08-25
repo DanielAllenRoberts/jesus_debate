@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-A-01"
 - Title: The God Delusion
 - Author: Richard Dawkins
 - Year: 2006
-- URL: https://richarddawkins.com/books/book/the-god-delusion
+- URL: [The God Delusion](https://richarddawkins.com/books/book/the-god-delusion)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-29"
 - Title: Jesus Outside the New Testament: An Introduction to the Ancient Evidence
 - Author: Robert E. Van Voorst
 - Year: 2000
-- URL: https://www.eerdmans.com/9780802843685/jesus-outside-the-new-testament/
+- URL: [Jesus Outside the New Testament: An Introduction to the Ancient Evidence](https://www.eerdmans.com/9780802843685/jesus-outside-the-new-testament/)
 
 ## Summary (neutral)
 

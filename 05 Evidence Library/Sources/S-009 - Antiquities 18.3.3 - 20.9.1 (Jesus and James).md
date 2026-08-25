@@ -24,7 +24,7 @@ round: R01
 - Title: Antiquities 18.3.3 / 20.9.1 (Jesus and James)
 - Author: Flavius Josephus
 - Year: 1st c. CE
-- URL: https://penelope.uchicago.edu/Josephus/ant-18.html
+- URL: [Antiquities 18.3.3 / 20.9.1 (Jesus and James)](https://penelope.uchicago.edu/Josephus/ant-18.html)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ historical
 ## Popularity / influence
 
 Standard non-Christian Jewish witness in historicity debates.
+
+
+## Related arguments
+
+[[A-PRO-003 - Historical Jesus and crucifixion are historically secure|A-PRO-003]]
 
 ## Challenges
 

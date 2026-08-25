@@ -24,7 +24,7 @@ round: R01
 - Title: Teleological Arguments for God's Existence (SEP)
 - Author: Stanford Encyclopedia of Philosophy
 - Year: 
-- URL: https://plato.stanford.edu/entries/teleological-arguments/
+- URL: [Teleological Arguments for God's Existence (SEP)](https://plato.stanford.edu/entries/teleological-arguments/)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ philosophical | scientific
 ## Popularity / influence
 
 Standard philosophy reference.
+
+
+## Related arguments
+
+[[A-PRO-001 - Cosmology and fine-tuning favor a personal Creator|A-PRO-001]]
 
 ## Challenges
 

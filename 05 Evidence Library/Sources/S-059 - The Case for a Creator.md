@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-15"
 - Title: The Case for a Creator
 - Author: Lee Strobel
 - Year: 2004
-- URL: https://zondervanacademic.com/products/the-case-for-a-creator
+- URL: [The Case for a Creator](https://zondervanacademic.com/products/the-case-for-a-creator)
 
 ## Summary (neutral)
 

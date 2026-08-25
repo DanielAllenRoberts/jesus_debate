@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-10"
 - Title: DEBATE Matt Dillahunty vs InspiringPhilosophy (Mike Jones) | Reason to Believe in God?
 - Author: Matt Dillahunty / Modern-Day Debate
 - Year: n/d (Modern-Day Debate upload)
-- URL: https://www.youtube.com/watch?v=yGxSf4zJAso
+- URL: [DEBATE Matt Dillahunty vs InspiringPhilosophy (Mike Jones) | Reason to Believe in God?](https://www.youtube.com/watch?v=yGxSf4zJAso)
 
 ## Summary (neutral)
 

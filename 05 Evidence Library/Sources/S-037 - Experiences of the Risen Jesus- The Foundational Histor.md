@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-24"
 - Title: Experiences of the Risen Jesus: The Foundational Historical Issue in the Early Proclamation of the Resurrection
 - Author: Gary R. Habermas
 - Year: 2005 (*Dialog*)
-- URL: https://www.garyhabermas.com/articles/dialog_rexperience/dialog_rexperiences.htm
+- URL: [Experiences of the Risen Jesus: The Foundational Historical Issue in the Early Proclamation of the Resurrection](https://www.garyhabermas.com/articles/dialog_rexperience/dialog_rexperiences.htm)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-14"
 - Title: A History of the Warfare of Science with Theology in Christendom
 - Author: Andrew Dickson White
 - Year: 1896
-- URL: https://www.gutenberg.org/ebooks/505
+- URL: [A History of the Warfare of Science with Theology in Christendom](https://www.gutenberg.org/ebooks/505)
 
 ## Summary (neutral)
 

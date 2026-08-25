@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-11"
 - Title: First Council of Nicaea
 - Author: Encyclopaedia Britannica Editors
 - Year: living reference entry
-- URL: https://www.britannica.com/event/First-Council-of-Nicaea-325
+- URL: [First Council of Nicaea](https://www.britannica.com/event/First-Council-of-Nicaea-325)
 
 ## Summary (neutral)
 

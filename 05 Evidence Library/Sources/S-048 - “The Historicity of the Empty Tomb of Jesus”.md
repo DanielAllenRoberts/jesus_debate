@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-38"
 - Title: “The Historicity of the Empty Tomb of Jesus”
 - Author: William Lane Craig
 - Year: 1985
-- URL: https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540
+- URL: [“The Historicity of the Empty Tomb of Jesus”](https://www.cambridge.org/core/journals/new-testament-studies/article/abs/historicity-of-the-empty-tomb-of-jesus1/39C53623AC0517088951E31CF346B540)
 
 ## Summary (neutral)
 

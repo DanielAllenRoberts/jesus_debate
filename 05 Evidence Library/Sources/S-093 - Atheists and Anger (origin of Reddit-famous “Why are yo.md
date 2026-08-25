@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-15"
 - Title: Atheists and Anger (origin of Reddit-famous “Why are you atheists so angry?” reply)
 - Author: Greta Christina
 - Year: 2007 (essay); book expansion 2012
-- URL: https://the-orbit.net/greta/2007/10/15/atheists-and-an/
+- URL: [Atheists and Anger (origin of Reddit-famous “Why are you atheists so angry?” reply)](https://the-orbit.net/greta/2007/10/15/atheists-and-an/)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-27"
 - Title: A Marginal Jew: Rethinking the Historical Jesus, Vol. 1 — The Roots of the Problem and the Person
 - Author: John P. Meier
 - Year: 1991
-- URL: https://yalebooks.yale.edu/book/9780300140187/a-marginal-jew-rethinking-the-historical-jesus-volume-i/
+- URL: [A Marginal Jew: Rethinking the Historical Jesus, Vol. 1 — The Roots of the Problem and the Person](https://yalebooks.yale.edu/book/9780300140187/a-marginal-jew-rethinking-the-historical-jesus-volume-i/)
 
 ## Summary (neutral)
 

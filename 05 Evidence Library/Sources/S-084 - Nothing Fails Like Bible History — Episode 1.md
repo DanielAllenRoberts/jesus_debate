@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-06"
 - Title: Nothing Fails Like Bible History — Episode 1
 - Author: Thomas Westbrook (Holy Koolaid)
 - Year: 2019
-- URL: https://www.youtube.com/watch?v=Iep4gnmJeRE
+- URL: [Nothing Fails Like Bible History — Episode 1](https://www.youtube.com/watch?v=Iep4gnmJeRE)
 
 ## Summary (neutral)
 

@@ -24,7 +24,7 @@ round: R01
 - Title: Mere Christianity
 - Author: C. S. Lewis
 - Year: 1952
-- URL: https://en.wikipedia.org/wiki/Mere_Christianity
+- URL: [Mere Christianity](https://en.wikipedia.org/wiki/Mere_Christianity)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ philosophical
 ## Popularity / influence
 
 Major late-20th-century popular apologetic; long bestseller runs.
+
+
+## Related arguments
+
+[[A-PRO-002 - Moral law points to biblical theism|A-PRO-002]], [[A-PRO-005 - Resurrection vindicates divine identity and atonement|A-PRO-005]]
 
 ## Challenges
 

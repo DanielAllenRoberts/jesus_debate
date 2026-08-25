@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-22"
 - Title: An Interview with Daniel B. Wallace on the New Testament Manuscripts
 - Author: Justin Taylor (interviewing Daniel B. Wallace)
 - Year: 2012
-- URL: https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/
+- URL: [An Interview with Daniel B. Wallace on the New Testament Manuscripts](https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-daniel-b-wallace-on-the-new-testament-manuscripts/)
 
 ## Summary (neutral)
 

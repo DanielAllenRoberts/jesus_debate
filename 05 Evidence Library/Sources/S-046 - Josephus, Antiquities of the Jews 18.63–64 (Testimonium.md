@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-34"
 - Title: Josephus, Antiquities of the Jews 18.63–64 (Testimonium Flavianum)
 - Author: Flavius Josephus (Whiston tr. on Lexundria)
 - Year: c. 93–94 CE
-- URL: https://lexundria.com/j_aj/18.63-64/wst
+- URL: [Josephus, Antiquities of the Jews 18.63–64 (Testimonium Flavianum)](https://lexundria.com/j_aj/18.63-64/wst)
 
 ## Summary (neutral)
 

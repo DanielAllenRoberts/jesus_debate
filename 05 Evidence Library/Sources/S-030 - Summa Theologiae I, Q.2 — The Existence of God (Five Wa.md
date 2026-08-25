@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-13"
 - Title: Summa Theologiae I, Q.2 — The Existence of God (Five Ways)
 - Author: Thomas Aquinas
 - Year: c. 1265–1274 (English Dominican Province
-- URL: https://www.newadvent.org/summa/1002.htm
+- URL: [Summa Theologiae I, Q.2 — The Existence of God (Five Ways)](https://www.newadvent.org/summa/1002.htm)
 
 ## Summary (neutral)
 

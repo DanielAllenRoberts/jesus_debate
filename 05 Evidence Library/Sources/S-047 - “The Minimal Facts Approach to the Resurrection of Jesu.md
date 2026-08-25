@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-36"
 - Title: “The Minimal Facts Approach to the Resurrection of Jesus…”
 - Author: Gary R. Habermas
 - Year: 2012
-- URL: https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs
+- URL: [“The Minimal Facts Approach to the Resurrection of Jesus…”](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1014&context=sod_fac_pubs)
 
 ## Summary (neutral)
 

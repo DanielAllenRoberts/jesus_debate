@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-07"
 - Title: These Christian Beliefs Make ZERO sense
 - Author: Thomas Westbrook (Holy Koolaid)
 - Year: recent (upload date not reconfirmed)
-- URL: https://www.youtube.com/watch?v=LknwCftNL_M
+- URL: [These Christian Beliefs Make ZERO sense](https://www.youtube.com/watch?v=LknwCftNL_M)
 
 ## Summary (neutral)
 

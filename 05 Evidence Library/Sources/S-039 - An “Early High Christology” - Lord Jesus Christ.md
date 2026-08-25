@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-26"
 - Title: An “Early High Christology” / Lord Jesus Christ
 - Author: Larry W. Hurtado
 - Year: 2012 (blog summarizing 2003 monograph)
-- URL: https://larryhurtado.wordpress.com/2012/07/01/an-early-high-christology/
+- URL: [An “Early High Christology” / Lord Jesus Christ](https://larryhurtado.wordpress.com/2012/07/01/an-early-high-christology/)
 
 ## Summary (neutral)
 

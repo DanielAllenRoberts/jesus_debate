@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-03"
 - Title: Evil and Omnipotence
 - Author: J. L. Mackie
 - Year: 1955
-- URL: https://www.jstor.org/stable/2251467
+- URL: [Evil and Omnipotence](https://www.jstor.org/stable/2251467)
 
 ## Summary (neutral)
 

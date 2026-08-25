@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-11"
 - Title: Did the Authors of the Canonical Gospels Know Each Other?
 - Author: Bible Odyssey / SBL public scholarship (article on the Synoptic Problem)
 - Year: n.d. (current SBL Bible Odyssey site)
-- URL: https://www.bibleodyssey.org/articles/did-the-authors-of-the-canonical-gospels-know-each-other/
+- URL: [Did the Authors of the Canonical Gospels Know Each Other?](https://www.bibleodyssey.org/articles/did-the-authors-of-the-canonical-gospels-know-each-other/)
 
 ## Summary (neutral)
 

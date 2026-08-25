@@ -24,7 +24,7 @@ round: R01
 - Title: The Language of God
 - Author: Francis S. Collins
 - Year: 2006
-- URL: https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742
+- URL: [The Language of God](https://www.simonandschuster.com/books/The-Language-of-God/Francis-S-Collins/9781416542742)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ scientific | philosophical
 ## Popularity / influence
 
 Bestselling faith–science bridge.
+
+
+## Related arguments
+
+[[A-PRO-002 - Moral law points to biblical theism|A-PRO-002]]
 
 ## Challenges
 

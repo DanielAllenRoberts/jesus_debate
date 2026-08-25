@@ -24,7 +24,7 @@ round: R01
 - Title: Does God Exist? (Craig vs Hitchens debate)
 - Author: William Lane Craig & Christopher Hitchens
 - Year: 2009
-- URL: https://www.youtube.com/watch?v=P0XRQd9YOUM
+- URL: [Does God Exist? (Craig vs Hitchens debate)](https://www.youtube.com/watch?v=P0XRQd9YOUM)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ philosophical | historical
 ## Popularity / influence
 
 Large YouTube circulation; Biola event.
+
+
+## Related arguments
+
+[[A-PRO-001 - Cosmology and fine-tuning favor a personal Creator|A-PRO-001]], [[A-PRO-005 - Resurrection vindicates divine identity and atonement|A-PRO-005]]
 
 ## Challenges
 

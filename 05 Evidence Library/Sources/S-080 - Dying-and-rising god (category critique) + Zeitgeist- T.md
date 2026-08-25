@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-14"
 - Title: Dying-and-rising god (category critique) + Zeitgeist: The Movie (popular deployment)
 - Author: Wikipedia (scholarly reception of Frazer/Smith); Peter Joseph (film)
 - Year: category debate ongoing; film 2007
-- URL: https://en.wikipedia.org/wiki/Dying-and-rising_god
+- URL: [Dying-and-rising god (category critique) + Zeitgeist: The Movie (popular deployment)](https://en.wikipedia.org/wiki/Dying-and-rising_god)
 
 ## Summary (neutral)
 

@@ -24,7 +24,7 @@ round: R01
 - Title: The Existence of God (2nd ed.)
 - Author: Richard Swinburne
 - Year: 2004
-- URL: https://www.amazon.com/Existence-God-Richard-Swinburne/dp/0199271682
+- URL: [The Existence of God (2nd ed.)](https://www.amazon.com/Existence-God-Richard-Swinburne/dp/0199271682)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ philosophical
 ## Popularity / influence
 
 Cornerstone of analytic philosophy of religion.
+
+
+## Related arguments
+
+[[A-PRO-001 - Cosmology and fine-tuning favor a personal Creator|A-PRO-001]]
 
 ## Challenges
 

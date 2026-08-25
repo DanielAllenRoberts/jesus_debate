@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-C-40"
 - Title: The Resurrection of Jesus: Apologetics, Polemics, History
 - Author: Dale C. Allison Jr.
 - Year: 2021
-- URL: https://www.bloomsbury.com/us/resurrection-of-jesus-9780567697561/
+- URL: [The Resurrection of Jesus: Apologetics, Polemics, History](https://www.bloomsbury.com/us/resurrection-of-jesus-9780567697561/)
 
 ## Summary (neutral)
 

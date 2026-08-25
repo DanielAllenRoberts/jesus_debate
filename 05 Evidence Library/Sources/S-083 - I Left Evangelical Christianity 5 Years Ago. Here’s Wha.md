@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-D-05"
 - Title: I Left Evangelical Christianity 5 Years Ago. Here’s What I’m Still Deconstructing
 - Author: Drew McCoy (Genetically Modified Skeptic)
 - Year: ~2021–2022 (channel content; exact uploa
-- URL: https://www.youtube.com/watch?v=Mxgx5QAYMrU
+- URL: [I Left Evangelical Christianity 5 Years Ago. Here’s What I’m Still Deconstructing](https://www.youtube.com/watch?v=Mxgx5QAYMrU)
 
 ## Summary (neutral)
 

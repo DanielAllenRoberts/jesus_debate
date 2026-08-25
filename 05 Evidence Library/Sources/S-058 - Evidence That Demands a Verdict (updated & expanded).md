@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-14"
 - Title: Evidence That Demands a Verdict (updated & expanded)
 - Author: Josh McDowell & Sean McDowell
 - Year: 2017 (lineage to 1972)
-- URL: https://www.thomasnelsonbibles.com/product/evidence-that-demands-a-verdict/
+- URL: [Evidence That Demands a Verdict (updated & expanded)](https://www.thomasnelsonbibles.com/product/evidence-that-demands-a-verdict/)
 
 ## Summary (neutral)
 

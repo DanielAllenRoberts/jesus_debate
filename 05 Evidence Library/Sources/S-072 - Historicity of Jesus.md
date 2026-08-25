@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-C-01"
 - Title: Historicity of Jesus
 - Author: Wikipedia contributors (encyclopedia overview)
 - Year: ongoing
-- URL: https://en.wikipedia.org/wiki/Historicity_of_Jesus
+- URL: [Historicity of Jesus](https://en.wikipedia.org/wiki/Historicity_of_Jesus)
 
 ## Summary (neutral)
 

@@ -24,7 +24,7 @@ round: R01
 - Title: The Reason for God
 - Author: Timothy Keller
 - Year: 2008
-- URL: https://www.penguinrandomhouse.com/books/301318/the-reason-for-god-by-timothy-keller/
+- URL: [The Reason for God](https://www.penguinrandomhouse.com/books/301318/the-reason-for-god-by-timothy-keller/)
 
 ## Summary (neutral)
 
@@ -41,6 +41,11 @@ philosophical
 ## Popularity / influence
 
 New York Times bestseller.
+
+
+## Related arguments
+
+[[A-PRO-002 - Moral law points to biblical theism|A-PRO-002]], [[A-PRO-005 - Resurrection vindicates divine identity and atonement|A-PRO-005]]
 
 ## Challenges
 

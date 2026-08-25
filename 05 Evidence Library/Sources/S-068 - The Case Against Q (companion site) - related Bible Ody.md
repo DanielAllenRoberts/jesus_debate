@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-12"
 - Title: The Case Against Q (companion site) / related Bible Odyssey video
 - Author: Mark Goodacre
 - Year: book 2002; site ongoing; Bible Odyssey v
-- URL: https://www.markgoodacre.org/Q/
+- URL: [The Case Against Q (companion site) / related Bible Odyssey video](https://www.markgoodacre.org/Q/)
 
 ## Summary (neutral)
 

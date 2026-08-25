@@ -25,7 +25,7 @@ wave_local_id: "S-ANTI-B-13"
 - Title: History of the Conflict Between Religion and Science
 - Author: John William Draper
 - Year: 1874/1875 (Appleton; Cambridge reprint n
-- URL: https://www.gutenberg.org/ebooks/1185
+- URL: [History of the Conflict Between Religion and Science](https://www.gutenberg.org/ebooks/1185)
 
 ## Summary (neutral)
 

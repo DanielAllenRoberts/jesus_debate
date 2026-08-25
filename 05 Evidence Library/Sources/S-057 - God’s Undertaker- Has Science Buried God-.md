@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-D-13"
 - Title: God’s Undertaker: Has Science Buried God?
 - Author: John C. Lennox
 - Year: 2007 (updated 2009)
-- URL: https://johnlennox.org/book/gods-undertaker/
+- URL: [God’s Undertaker: Has Science Buried God?](https://johnlennox.org/book/gods-undertaker/)
 
 ## Summary (neutral)
 

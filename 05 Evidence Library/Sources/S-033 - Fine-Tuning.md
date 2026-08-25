@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-18"
 - Title: Fine-Tuning
 - Author: Simon Friederich
 - Year: 2026 (SEP Spring 2026 archive)
-- URL: https://plato.stanford.edu/archives/spr2026/entries/fine-tuning/
+- URL: [Fine-Tuning](https://plato.stanford.edu/archives/spr2026/entries/fine-tuning/)
 
 ## Summary (neutral)
 

@@ -25,7 +25,7 @@ wave_local_id: "S-PRO-B-25"
 - Title: Jesus Remembered (Christianity in the Making, Vol. 1)
 - Author: James D. G. Dunn
 - Year: 2003
-- URL: https://www.eerdmans.com/9780802877994/jesus-remembered/
+- URL: [Jesus Remembered (Christianity in the Making, Vol. 1)](https://www.eerdmans.com/9780802877994/jesus-remembered/)
 
 ## Summary (neutral)
 
