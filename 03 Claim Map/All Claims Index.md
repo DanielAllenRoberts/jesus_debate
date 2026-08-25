@@ -27,4 +27,4 @@ Navigation: [[Debate Graph]] · [[Christianity Truth Stack]] · [[Claim Scores]]
 | [[C-A002]] | No classical theistic God | foundation | Contested | [[C-A002]] |
 | [[C-A003]] | Nicene Christianity later construction | supporting | Contested | [[C-A003]] |
 
-Template: [[T - Claim]] · Base: [[Claims.base]]
+Template: [[T - Claim]] · Base: [[Claims.base]] · Graph: [[Debate Graph]]
