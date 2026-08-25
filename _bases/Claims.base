@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.inFolder("03 Claim Map/Claims")
+    - 'file.ext == "md"'
+
+formulas:
+  tier_label: 'if(tier, tier, "unset")'
+  status_label: 'if(status, status, "Unscored")'
+
+properties:
+  id:
+    displayName: ID
+  side:
+    displayName: Side
+  formula.tier_label:
+    displayName: Tier
+  formula.status_label:
+    displayName: Status
+  heat:
+    displayName: Heat
+
+views:
+  - type: table
+    name: All Claims
+    order:
+      - file.name
+      - id
+      - side
+      - formula.tier_label
+      - formula.status_label
+      - heat
+  - type: table
+    name: Contested High Heat
+    filters:
+      and:
+        - 'status == "Contested"'
+    order:
+      - file.name
+      - tier
+      - heat
+      - side

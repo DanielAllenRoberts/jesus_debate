@@ -1,0 +1,11 @@
+filters:
+  and:
+    - 'file.hasTag("scoreboard") || file.name.contains("SE-")'
+    - 'file.ext == "md"'
+
+views:
+  - type: table
+    name: Scoreboard Notes
+    order:
+      - file.name
+      - file.mtime

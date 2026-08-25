@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.inFolder("05 Evidence Library/Sources")
+    - 'file.ext == "md"'
+
+properties:
+  id:
+    displayName: ID
+  media_type:
+    displayName: Type
+  credibility:
+    displayName: Credibility
+  side_focus:
+    displayName: Focus
+  url:
+    displayName: URL
+
+views:
+  - type: table
+    name: All Sources
+    order:
+      - file.name
+      - id
+      - media_type
+      - credibility
+      - side_focus
+      - url
+  - type: table
+    name: Challenged or Unverified
+    filters:
+      or:
+        - 'credibility == "challenged"'
+        - 'credibility == "unverified"'
+        - 'credibility == "rejected"'
+    order:
+      - file.name
+      - credibility
+      - media_type
