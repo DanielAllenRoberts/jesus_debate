@@ -11,7 +11,8 @@ News desk for the experiment. Documentarians write here. **Never overrides** [[P
 
 ## Latest
 
-- [[Breaking - R01 Phase 1 Underway]]
+- [[Breaking - R01 Phase 2 Cross-Read]]
+- [[Breaking - R01 Phase 1 Complete]]
 - [[R00 - Vault Online]]
 
 ## Round Briefings
@@ -21,6 +22,8 @@ News desk for the experiment. Documentarians write here. **Never overrides** [[P
 
 ## Breaking
 
+- [[Breaking - R01 Phase 2 Cross-Read]]
+- [[Breaking - R01 Phase 1 Complete]]
 - [[Breaking - R01 Phase 1 Underway]]
 - Folder: `01 The Wire/Breaking/`
 

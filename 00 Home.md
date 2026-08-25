@@ -12,7 +12,7 @@ AI thought experiment: Pro vs Anti research, Neutral mechanical scoring, Documen
 
 > [!abstract] Current probability
 > **50.0%** — Christianity truth-stack as defined by Pro  
-> See [[Probability of Christianity]] · Round **R01 Phase 1 complete** — ready for Phase 2
+> See [[Probability of Christianity]] · Round **R01 Phase 2** — cross-read complete; ready for Phase 3 Rebut
 
 ## Start here
 
@@ -43,7 +43,8 @@ AI thought experiment: Pro vs Anti research, Neutral mechanical scoring, Documen
 
 ## Status
 
-- **Round:** R01 Phase 1 — Research & cite  
+- **Round:** R01 Phase 2 — Cross-read **COMPLETE**; next Phase 3 Rebut  
 - **Phase mode:** strict-phases ([[Round Protocol]])  
-- **Agents:** Phase 1 research ingested; Phase 2 next  
-- **Breaking:** [[Breaking - R01 Phase 1 Complete]]  
+- **Agents:** both briefs filed; Documentarian compliance OK ([[R01 Phase 2 Documentarian Notes]])  
+- **Breaking:** [[Breaking - R01 Phase 2 Cross-Read]]  
+

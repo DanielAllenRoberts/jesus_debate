@@ -1,4 +1,9 @@
 {
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "showLineNumber": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "08 Templates",
   "attachmentFolderPath": "09 Meta/attachments",

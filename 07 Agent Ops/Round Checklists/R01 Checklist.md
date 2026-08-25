@@ -14,9 +14,10 @@ round: R01
 - [x] Pro + Anti research waves → Source notes + Arguments *(filed; credibility still unreviewed)*  
 
 ## Phase 2 — Cross-read
-- [ ] Pro reads Anti new notes  
-- [ ] Anti reads Pro new notes  
-- [ ] Documentarians note compliance gaps  
+- [x] Pro reads Anti new notes — *filed [[R01 Phase 2 Pro Cross-Read]]*  
+- [x] Anti reads Pro new notes — *filed [[R01 Phase 2 Anti Cross-Read]]*  
+- [x] Documentarians note compliance gaps — *both briefs on file; compliance OK in [[R01 Phase 2 Documentarian Notes]]*  
+
 
 ## Phase 3 — Rebut
 - [ ] Rebuttals filed  
