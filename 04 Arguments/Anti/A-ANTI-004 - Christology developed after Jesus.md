@@ -9,7 +9,6 @@ side: anti
 claim: C-A003
 round: R01
 viewpoint: "historical"
-wave: Anti-A/C
 ---
 
 # A-ANTI-004 — Christology developed after Jesus
@@ -22,36 +21,39 @@ Opposing Pro claim: [[C-003]]
 
 ## Thesis
 
-Jesus did not claim Nicene divinity; exaltation Christology developed after death.
+Jesus did not teach Nicene-level divine identity; exaltation and incarnation Christologies developed after his death as the movement reinterpreted him.
 
 ## Argument
 
-Phase 1 thesis from research wave **Anti-A/C**. Source notes are in the Evidence Library (still `unreviewed`).
+Bart Ehrman’s *How Jesus Became God* ([[S-025]]) traces a developmental arc: followers exalt the crucified Jesus; later reflection intensifies divine language; incarnation theology matures in ways foreign to Jesus’ own historical proclamation. Anti’s point is historical discontinuity between the Galilean teacher and the later ontological Son of [[C-003]]. Early high devotion, even if granted from Hurtado ([[S-039]]), can still be *post-Easter invention* relative to Jesus himself.
+
+Council history ([[S-089]], [[S-090]]) shows fourth-century settlement of contested metaphysical formulas. That settlement is evidence of controversy, not of first-generation consensus on homoousios. Anti does not claim “no early exaltation”; it claims Pro overreads early exaltation as if it already were the full Pro truth-stack identity (divine Son whose death atones in classical Christian sense).
+
+This pairs with [[A-ANTI-005]]: development plus pluriform competition explain orthodoxy’s later shape. If Pro shows Jesus himself claimed the relevant identity with historically secure sayings, this argument weakens. If Pro only shows early *church* devotion, Anti can still maintain post-Jesus development.
 
 ## Sources (required)
 
 - [[S-025]] — Ehrman, *How Jesus Became God*
-- [[S-026]] — Ehrman, *Misquoting Jesus*
-- [[S-028]] — Pagels, *The Gnostic Gospels*
-- [[S-029]] — Bauer, *Orthodoxy and Heresy in Earliest Christianity*
-- [[S-075]] — Maccoby, *The Mythmaker*
-- [[S-086]] — Tabor / Holy Koolaid on early Christianity development
-- [[S-089]] — First Council of Nicaea (Britannica)
+- [[S-089]] — First Council of Nicaea
+- [[S-090]] — First Council of Constantinople
+- [[S-039]] — Hurtado (engaged opposing early high Christology)
+- [[S-066]] — Ehrman, *Jesus, Interrupted* (theological diversity in NT)
 
 ## Related Anti arguments
 
-- [[A-ANTI-005]] — orthodoxy as later winner (same claim [[C-A003]])
+- [[A-ANTI-005]] — orthodoxy as later winner
 
 ## Opposing Pro
 
-- [[C-003]] — Jesus’ divine identity / early high Christology package
 - [[A-PRO-008]] — early creed + high Christology at origins
-- [[A-PRO-005]] — resurrection vindicates divine identity and atonement
+- [[A-PRO-005]] — resurrection vindicates divine identity
 
 ## Symmetry notes
 
-Opponent may use the same methods under [[Constitution]].
+Anti must not equate “developed” with “false” without argument; development is historical description. Pro may argue development of *formulas* with continuity of *referent*.
 
 ## Anticipated objections
 
-*(Phase 3)*
+- Pre-Pauline creed already salvific ([[S-037]]).
+- Hurtado early cultic devotion ([[S-039]]).
+- Resurrection vindication path ([[A-PRO-005]]).

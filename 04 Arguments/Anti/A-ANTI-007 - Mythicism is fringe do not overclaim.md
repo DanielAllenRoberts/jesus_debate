@@ -26,7 +26,12 @@ Anti prioritizes critical naturalistic alternatives over fringe Jesus-myth theor
 
 ## Argument
 
-Phase 1 thesis from research wave **Anti-C**. Source notes are in the Evidence Library (still `unreviewed`).
+## Argument
+
+Anti’s strategic scope note: Jesus-mythicism ([[S-073]], [[S-075]]) is not the load-bearing Anti case. Critical scholarship, including Ehrman ([[S-007]]) and Casey ([[S-074]]), treats mythicism as fringe relative to mainstream historical method. Anti therefore contests meaning, resurrection, and christological development — not existence — via [[A-ANTI-001]], [[A-ANTI-004]], [[A-ANTI-005]], [[A-ANTI-006]].
+
+This prevents symmetry violations and credibility damage. It also clarifies why Pro Strengthening on [[C-004]]/[[C-005]] does not automatically defeat Anti’s core lanes.
+
 
 ## Sources (required)
 

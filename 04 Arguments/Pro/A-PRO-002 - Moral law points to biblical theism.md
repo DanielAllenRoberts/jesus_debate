@@ -25,7 +25,14 @@ Objective moral experience is better explained by classical/biblical theism than
 
 ## Argument
 
-Phase 1 Pro Wave A thesis. Load-bearing steps require the cited sources; Neutrals have not yet scored.
+## Argument
+
+C. S. Lewis’s moral argument in [[S-001]] treats the felt obligation of a moral law as data needing explanation: if we experience binding “oughts,” naturalism’s reduction of morality to preference or evolutionary byproduct under-explains the phenomenology. William Lane Craig’s moral argument materials ([[S-032]], [[S-002]]) and Keller’s pastoral-philosophical treatment ([[S-011]]) press a similar claim: objective moral values and duties fit classical theism better than atheistic naturalism.
+
+This argument is philosophical, not a proof from Scripture quotations alone. It supports [[C-001]] first; any bridge toward [[C-002]] (biblical God) is secondary and contested by [[A-ANTI-003]]. Under symmetry, if Anti uses moral horror as evidence *against* theism ([[S-060]], [[S-065]]), Pro may use moral obligation as evidence *for* a moral lawgiver — both are moral data, differently interpreted.
+
+The argument fails if objective morals are shown unnecessary, or if theism’s own evil problem ([[A-ANTI-002]]) cancels the moral uplift without remainder. It does not by itself identify Yahweh or settle Scripture’s historical claims.
+
 
 ## Sources (required)
 

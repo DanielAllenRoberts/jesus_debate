@@ -1,19 +1,14 @@
 ---
 title: Timeline
-tags:
-  - wire
-  - timeline
+tags: [wire, timeline]
 ---
 
 # Timeline
 
 | When | Round | Event |
 |------|-------|-------|
-| 2026-08-25 | R00 | Vault structure + Constitution locked — [[R00 - Vault Online]] |
-| 2026-08-25 | R01 | Phase 1 kickoff — stack locked, research waves launched — [[Breaking - R01 Phase 1 Underway]] |
-| 2026-08-25 | R01 | Phase 1 complete — sources ingested — [[Breaking - R01 Phase 1 Complete]] |
-| 2026-08-25 | R01 | Constitution §11 locked — mandatory Obsidian `[[wikilinks]]` for all vault-entity references |
-| 2026-08-25 | R01 | Phase 2 underway — cross-read; awaiting Pro/Anti briefs — [[Breaking - R01 Phase 2 Cross-Read]] |
-| 2026-08-25 | R01 | Phase 2 complete — Pro + Anti cross-read briefs filed; ready for Phase 3 Rebut — [[Breaking - R01 Phase 2 Cross-Read]] · [[R01 Phase 2 complete]] |
-
-Documentarians append rows; link Round Briefings.
+| 2026-08-25 | R00 | Vault online — [[R00 - Vault Online]] |
+| 2026-08-25 | R01 | Full cycle — history Strengthened; **52.5%** — [[R01 - First Blood on History Stalemate on God and Easter]] |
+| 2026-08-25 | R02 | Full cycle — [[C-006]] Strengthened; [[C-A003]] Strengthened; **53.25%** — [[R02 - Easter Nudge Nicene Pushback]] |
+| 2026-08-25 | R03 | Full cycle — [[C-003]] Strengthened; [[C-002]] Weakened; **53.25%** — [[R03 - Identity Up Bible God Down]] |
+| 2026-08-25 | R01–R03 | Orchestrator summary — [[Cycles R01-R03 complete]] |

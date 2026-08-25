@@ -26,7 +26,12 @@ Christian streams plus Josephus/Tacitus; critics also affirm historicity.
 
 ## Argument
 
-Phase 1 thesis from research wave **Pro-C**. Source notes are in the Evidence Library (still `unreviewed`).
+## Argument
+
+Jesus’ existence is multiply attested across Christian traditions and in non-Christian notices: Tacitus ([[S-008]]), Josephus ([[S-009]], [[S-046]]), and critical scholarship affirming historicity ([[S-007]], [[S-040]], [[S-042]], [[S-044]], [[S-074]]). Mythicist alternatives ([[S-073]], [[S-075]]) remain minority positions; Anti’s own [[A-ANTI-007]] declines to rest on them.
+
+This argument overlaps [[A-PRO-003]] and feeds [[C-004]]. It does not establish resurrection or divinity. Its scoring relevance is baseline historicity.
+
 
 ## Sources (required)
 

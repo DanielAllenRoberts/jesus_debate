@@ -27,7 +27,12 @@ If God raised Jesus, that vindicates divine identity and the claim that his deat
 
 ## Argument
 
-Phase 1 Pro Wave A thesis. Load-bearing steps require the cited sources; Neutrals have not yet scored.
+## Argument
+
+If [[C-006]] holds — Jesus bodily raised — then, within Second Temple categories mapped by Wright ([[S-003]], [[S-050]]), God has publicly vindicated Jesus. Pro infers that early claims tying Jesus’ death to dealing with sin ([[S-037]], [[A-PRO-008]]) and exalted identity ([[S-039]]) gain historical-theological confirmation rather than remaining free-floating dogma.
+
+This argument is explicitly conditional on the resurrection hinge ([[A-PRO-004]], [[A-PRO-011]]). It cannot strengthen [[C-003]] beyond whatever status [[C-006]] has. Anti’s developmental Christology ([[A-ANTI-004]], [[S-025]]) and pluriformity ([[A-ANTI-005]]) still matter for *how much* identity is vindicated (exalted Messiah vs full Nicene package). Pro claims at least this: resurrection undercuts “mere later invention with no divine endorsement” readings of [[C-A003]].
+
 
 ## Sources (required)
 

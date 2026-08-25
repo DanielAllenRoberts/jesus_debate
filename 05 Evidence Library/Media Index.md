@@ -105,3 +105,18 @@ R01 Phase 1 harvest. Popularity prioritizes investigation — it does not prove 
 | S-093 | article | Atheists and Anger (origin of Reddit-famous “Why are you atheists so angry?” reply) | anti | unreviewed | [[S-093 - Atheists and Anger (origin of Reddit-famous “Why are yo]] |
 
 Folders: `Sources/` · `Source Challenges/` · [[Human Inbox]]
+| S-094 | article | Resurrection (IEP) | both | unreviewed | [[S-094 - Resurrection (IEP)]] |
+| S-095 | article | Afterlife (SEP) | both | unreviewed | [[S-095 - Afterlife (SEP)]] |
+| S-096 | article | Hurtado Early High Christology clarifying | pro | unreviewed | [[S-096 - Hurtado Early High Christology clarifying]] |
+| S-097 | article | Atheism and Agnosticism (SEP) | anti | unreviewed | [[S-097 - Atheism and Agnosticism (SEP)]] |
+| S-098 | article | Atheism (IEP) | anti | unreviewed | [[S-098 - Atheism (IEP)]] |
+| S-099 | article | Hurtado Devotion to Jesus BibleInterp | pro | unreviewed | [[S-099 - Hurtado Devotion to Jesus BibleInterp]] |
+| S-100 | article | Natural Theology (SEP) | both | unreviewed | [[S-100 - Natural Theology (SEP)]] |
+| S-101 | article | Miracles (SEP) | both | unreviewed | [[S-101 - Miracles (SEP)]] |
+| S-102 | article | Hume on Religion (SEP) | anti | unreviewed | [[S-102 - Hume on Religion (SEP)]] |
+| S-103 | book | Bauckham Jesus and the God of Israel | pro | unreviewed | [[S-103 - Bauckham Jesus and the God of Israel]] |
+| S-104 | article | How Was Jesus God CT Bauckham | pro | unreviewed | [[S-104 - How Was Jesus God CT Bauckham]] |
+
+## Source Challenges Index
+
+[[SC-001]] · [[SC-002]] · [[SC-003]] · [[SC-004]] · [[SC-005]] · [[SC-006]]

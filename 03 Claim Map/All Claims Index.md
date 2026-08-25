@@ -28,3 +28,7 @@ Navigation: [[Debate Graph]] · [[Christianity Truth Stack]] · [[Claim Scores]]
 | [[C-A003]] | Nicene Christianity later construction | supporting | Contested | [[C-A003]] |
 
 Template: [[T - Claim]] · Base: [[Claims.base]] · Graph: [[Debate Graph]]
+
+## Scoreboard snapshot (after R03)
+
+See [[Claim Scores]] · [[Probability of Christianity]] (**53.25%**) · [[Cycles R01-R03 complete]]

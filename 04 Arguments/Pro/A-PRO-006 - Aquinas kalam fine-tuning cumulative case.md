@@ -26,7 +26,12 @@ Contingency, kalām, and fine-tuning jointly favor a personal creator.
 
 ## Argument
 
-Phase 1 thesis from research wave **Pro-B**. Source notes are in the Evidence Library (still `unreviewed`).
+## Argument
+
+This note packages three planks into one cumulative case for [[C-001]]. Aquinas’s contingency/causal ways ([[S-030]]) ask why contingent reality exists. Kalām presentations ([[S-031]], [[S-002]]) add a beginning-sensitive causal principle. Fine-tuning literature ([[S-033]], [[S-014]], [[S-012]]) adds life-permitting structure as further data. Swinburne’s confirmation framework ([[S-012]]) licenses combining independent lines if they are not fully redundant.
+
+Anti replies via Oppy ([[S-022]]), Mackie ([[S-021]]), and evil/hiddenness ([[S-060]]–[[S-063]]) — see [[R-012]] and [[R-008]]. Pro’s claim is not that each plank is Proven, but that together they outweigh a flat naturalist shrug *before* evil is counted; after evil is counted, the Foundation fight remains comparative and Contested.
+
 
 ## Sources (required)
 

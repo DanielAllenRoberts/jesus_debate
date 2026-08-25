@@ -24,7 +24,12 @@ Manuscript density supports recoverable biblical witness for C-002.
 
 ## Argument
 
-Phase 1 thesis from research wave **Pro-B**. Source notes are in the Evidence Library (still `unreviewed`).
+## Argument
+
+Compared with many ancient works, the New Testament has early and abundant manuscript attestation ([[S-034]], [[S-035]], [[S-036]]). Pro argues this supports recovering a stable biblical witness sufficient for historical and theological debate about what early Christians claimed — a prerequisite for identifying the God of [[C-002]] with the Creator of [[C-001]].
+
+Anti’s [[R-010]] and [[S-026]] correctly note that textual recovery ≠ truth of doctrine, and variants exist. Pro grants the distinction: this argument secures *access to the witness*, not moral vindication of every biblical depiction (that fight is [[A-ANTI-003]] vs theodicy/moral replies). Without recoverable text, [[C-002]] becomes untestable; with it, the moral/historical critiques can at least target the right referent.
+
 
 ## Sources (required)
 

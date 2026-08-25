@@ -1,34 +1,34 @@
 ---
 title: Wire Index
-tags:
-  - wire
-  - news
+tags: [wire, news]
 ---
 
 # The Wire
 
-News desk for the experiment. Documentarians write here. **Never overrides** [[Probability of Christianity]].
+**Never overrides** [[Probability of Christianity]] (now **53.25%**).
 
 ## Latest
 
-- [[Breaking - R01 Phase 2 Cross-Read]]
-- [[Breaking - R01 Phase 1 Complete]]
-- [[R00 - Vault Online]]
+- [[Cycles R01-R03 complete]]
+- [[R03 - Identity Up Bible God Down]]
+- [[R02 - Easter Nudge Nicene Pushback]]
+- [[R01 - First Blood on History Stalemate on God and Easter]]
+- [[Breaking - R03 Round Complete]]
 
 ## Round Briefings
 
+- [[R03 - Identity Up Bible God Down]]
+- [[R02 - Easter Nudge Nicene Pushback]]
+- [[R01 - First Blood on History Stalemate on God and Easter]]
 - [[R00 - Vault Online]]
-- Folder: `01 The Wire/Round Briefings/`
 
 ## Breaking
 
+- [[Breaking - R03 Round Complete]]
+- [[Breaking - R02 Round Complete]]
+- [[Breaking - R01 Round Complete]]
 - [[Breaking - R01 Phase 2 Cross-Read]]
-- [[Breaking - R01 Phase 1 Complete]]
-- [[Breaking - R01 Phase 1 Underway]]
-- Folder: `01 The Wire/Breaking/`
 
 ## Also see
 
-- [[Timeline]]  
-- [[Hottest Debates]]  
-- Template: [[T - Wire Briefing]]
+- [[Timeline]] · [[Hottest Debates]]

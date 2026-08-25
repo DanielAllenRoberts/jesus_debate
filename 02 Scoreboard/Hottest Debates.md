@@ -1,21 +1,16 @@
 ---
 title: Hottest Debates
-tags:
-  - scoreboard
-  - wire
+tags: [scoreboard, wire]
 ---
 
 # Hottest Debates
 
-Hubs: [[Debate Graph]] · [[Claim Scores]] · [[All Claims Index]] · [[Arguments Index]]
+| Rank | Claim | Status | Why hot |
+|------|-------|--------|---------|
+| 1 | [[C-001]] / [[C-A002]] | Contested | Foundation undecided after three rounds |
+| 2 | [[C-006]] / [[C-A001]] | Strengthened / Contested | Easter hinge; Humean bar still live |
+| 3 | [[C-002]] | Weakened | Biblical identification soft joint |
+| 4 | [[C-003]] / [[C-A003]] | Strengthened / Strengthened | Early identity vs later construction both scored |
+| 5 | [[C-004]] / [[C-005]] | Strengthened | Baseline history quieter but load-bearing |
 
-| Rank | Claim | Tier | Why hot | Opposing / links |
-|------|-------|------|---------|------------------|
-| 1 | [[C-006]] Resurrection | core | Central hinge | Opposed by [[C-A001]] · see claim args/sources |
-| 2 | [[C-001]] God exists | foundation | Foundation fight | Opposed by [[C-A002]] |
-| 3 | [[C-003]] Son / atonement | foundation | Doctrinal core of stack | Related [[C-A003]] |
-| 4 | [[C-A003]] Later construction | supporting | Continuity fight | Related [[C-003]] |
-| 5 | [[C-002]] God of the Bible | foundation | Identity of God | See [[C-002]] args |
-| 6 | [[C-004]] Historical Jesus | core | Existence / mythicism edge | See [[C-004]] · [[C-005]] |
-
-Refresh after Phase 5. Statuses remain Contested until Neutrals score.
+Probability: [[Probability of Christianity]] · Story: [[Wire Index]]
