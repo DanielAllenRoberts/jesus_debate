@@ -9,19 +9,34 @@ News desk for the debate. **Never overrides** [[Probability of Christianity|Prob
 
 ## Latest
 
-- [[Cycles R04-R08 complete|Cycles R04–R08 complete]] — five-round scoreboard story + thinking-log pointers  
-- [[R08 - Biblical God Still the Soft Joint|R08 — Biblical God still the soft joint]] — Weakened identification confirmed; board locked at 52.0%  
-- [[R07 - Early Identity Still Not Nicaea|R07 — Early identity, still not Nicaea]] — Ehrman↔Bird; no % move  
-- [[R06 - Easter Mirrors Vision Pressure|R06 — Easter mirrors, vision pressure]] — Anti no-resurrection Strengthened  
-- [[R05 - God Mirrors Swinburne Guardrails|R05 — God mirrors, Swinburne guardrails]] — Pro God Strengthened; Bayesian numbers limited  
-- [[R04 - Hiddenness Cuts the Foundation|R04 — Hiddenness cuts the foundation]] — Anti no-classical-God Strengthened  
-- [[Cycles R01-R03 complete|Cycles R01–R03 complete]]  
+- [[Cycles R09-R18 complete|Cycles R09–R18 complete]] — ten-round deepen; probability holds 52.0%; thinking-log pointers  
+- [[R18 - Ten Rounds Later the Mirrors Hold|R18 — Ten rounds later, the mirrors hold]] — end-cycle audit  
+- [[R17 - Oppy and Plantinga Lock the God Stalemate|R17 — Oppy & Plantinga lock the God stalemate]]  
+- [[R16 - Critical Violence Literature Holds the Soft Joint|R16 — Critical violence literature holds the soft joint]]  
+- [[R15 - Walton Deepens Context Not Identification|R15 — Walton deepens context, not identification]]  
+- [[R14 - Exaltation Arc Still Explains Development|R14 — Exaltation arc still explains development]]  
+- [[R13 - Early Devotion Still Not Full Nicaea|R13 — Early devotion, still not full Nicaea]]  
+- [[R12 - Visions and Cognition Keep Easter Split|R12 — Visions & cognition keep Easter split]]  
+- [[R11 - Creed Window Still Not Empty Tomb|R11 — Creed window still not empty tomb]]  
+- [[R10 - Deep Time Suffering Still Cuts|R10 — Deep-time suffering still cuts]]  
+- [[R09 - Fine-Tuning Meets Multiverse Mirror|R09 — Fine-tuning meets multiverse mirror]]  
+- [[Cycles R04-R08 complete|Cycles R04–R08 complete]]  
 - [[Thinking Logs Index|Thinking Logs]] — process notes for every major cohort
 
 ## Round Briefings
 
 Magazine-style round stories (read these end-to-end):
 
+- [[R18 - Ten Rounds Later the Mirrors Hold]]
+- [[R17 - Oppy and Plantinga Lock the God Stalemate]]
+- [[R16 - Critical Violence Literature Holds the Soft Joint]]
+- [[R15 - Walton Deepens Context Not Identification]]
+- [[R14 - Exaltation Arc Still Explains Development]]
+- [[R13 - Early Devotion Still Not Full Nicaea]]
+- [[R12 - Visions and Cognition Keep Easter Split]]
+- [[R11 - Creed Window Still Not Empty Tomb]]
+- [[R10 - Deep Time Suffering Still Cuts]]
+- [[R09 - Fine-Tuning Meets Multiverse Mirror]]
 - [[R08 - Biblical God Still the Soft Joint]]
 - [[R07 - Early Identity Still Not Nicaea]]
 - [[R06 - Easter Mirrors Vision Pressure]]
@@ -34,6 +49,16 @@ Magazine-style round stories (read these end-to-end):
 
 ## Breaking
 
+- [[Breaking - R18 Round Complete]]
+- [[Breaking - R17 Round Complete]]
+- [[Breaking - R16 Round Complete]]
+- [[Breaking - R15 Round Complete]]
+- [[Breaking - R14 Round Complete]]
+- [[Breaking - R13 Round Complete]]
+- [[Breaking - R12 Round Complete]]
+- [[Breaking - R11 Round Complete]]
+- [[Breaking - R10 Round Complete]]
+- [[Breaking - R09 Round Complete]]
 - [[Breaking - R08 Round Complete]]
 - [[Breaking - R07 Round Complete]]
 - [[Breaking - R06 Round Complete]]

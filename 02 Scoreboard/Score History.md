@@ -29,6 +29,26 @@ Each row is a Neutral [[Score History|Score Event]]: what claim moved, from whic
 | [[SE-016|SE-016: R07 christology (0)]] | C-003 / C-A003 | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Ehrman↔Bird deepen; SC-010 upheld |
 | [[SE-017|SE-017: R07 remainder (0)]] | multi | confirm | 52.0 → 52.0 | N1–N10 | watch | Board confirm |
 | [[SE-018|SE-018: C-002 Weakened confirm (0)]] | [[C-002|God of the Bible]] | Weakened confirm | 52.0 → 52.0 | N1–N10 | watch | No Contested recovery; SC-011 upheld |
-| [[SE-019|SE-019: R08 final locks (0)]] | multi | lock | 52.0 → **52.0** | N1–N10 | watch | End-cycle lock |
+| [[SE-019|SE-019: R08 final locks (0)]] | multi | lock | 52.0 → 52.0 | N1–N10 | watch | End-cycle lock |
+| [[SE-020|SE-020: C-001 confirm (0)]] | [[C-001|God exists]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Fine-tuning deepen |
+| [[SE-021|SE-021: C-A002 confirm (0)]] | [[C-A002|No classical God]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Dual God mirrors lock |
+| [[SE-022|SE-022: C-A002 confirm (0)]] | [[C-A002|No classical God]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Deep-time suffering |
+| [[SE-023|SE-023: C-001 confirm (0)]] | [[C-001|God exists]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Dual God mirrors hold |
+| [[SE-024|SE-024: C-006 confirm (0)]] | [[C-006|Resurrection]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Creed window |
+| [[SE-025|SE-025: Easter dual (0)]] | C-006 / C-A001 | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Dual Easter lock |
+| [[SE-026|SE-026: C-A001 confirm (0)]] | [[C-A001|No resurrection]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | SED/CSR deepen |
+| [[SE-027|SE-027: Easter dual (0)]] | C-006 / C-A001 | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Dual Easter confirm |
+| [[SE-028|SE-028: C-003 confirm (0)]] | [[C-003|Son / atonement]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Early devotion |
+| [[SE-029|SE-029: Christology dual (0)]] | C-003 / C-A003 | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Dual christology |
+| [[SE-030|SE-030: C-A003 confirm (0)]] | [[C-A003|Later Nicene]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Exaltation arc |
+| [[SE-031|SE-031: Christology lock (0)]] | C-003 / C-A003 | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Dual christology lock |
+| [[SE-032|SE-032: C-002 Weakened confirm (0)]] | [[C-002|God of the Bible]] | Weakened confirm | 52.0 → 52.0 | N1–N10 | watch | Walton recovery denied |
+| [[SE-033|SE-033: R15 remainder (0)]] | multi | confirm | 52.0 → 52.0 | N1–N10 | watch | Remainder locks |
+| [[SE-034|SE-034: C-002 Weakened confirm (0)]] | [[C-002|God of the Bible]] | Weakened confirm | 52.0 → 52.0 | N1–N10 | watch | Critical violence hold |
+| [[SE-035|SE-035: R16 remainder (0)]] | multi | confirm | 52.0 → 52.0 | N1–N10 | watch | Soft joint remains |
+| [[SE-036|SE-036: C-001 confirm (0)]] | [[C-001|God exists]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Oppy/Plantinga |
+| [[SE-037|SE-037: C-A002 confirm (0)]] | [[C-A002|No classical God]] | Strengthened confirm | 52.0 → 52.0 | N1–N10 | watch | Natural theology lock |
+| [[SE-038|SE-038: Hottest confirms (0)]] | multi | confirm | 52.0 → 52.0 | N1–N10 | watch | End-cycle hottest confirms |
+| [[SE-039|SE-039: R18 final locks (0)]] | multi | lock | 52.0 → **52.0** | N1–N10 | watch | End-cycle lock |
 
-No Proven or Refuted issued R01–R08 (conservative Neutral policy).
+No Proven or Refuted issued R01–R18 (conservative Neutral policy).

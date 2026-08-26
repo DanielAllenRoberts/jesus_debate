@@ -49,6 +49,46 @@ Skimmer note: ID cells carry short titles; Primary targets name the argument/cla
 | [[R-038|R-038 — Contextual apologetics do not erase herem texts]] | R08 | anti | [[A-PRO-023|Contextual OT ethics]]; [[C-002|God of the Bible]] |
 | [[R-039|R-039 — Christocentric reading is not automatic identification fix]] | R08 | anti | [[A-PRO-024|Progressive revelation]]; [[C-002|God of the Bible]] |
 | [[R-040|R-040 — Seibert cure costs show problem is real not invented by atheists]] | R08 | pro | [[A-ANTI-020|Seibert gap]]; [[S-123|Direction]] |
+| [[R-041|R-041 — Multiverse speculation does not automatically cancel fine-tuning lift]] | R09 | pro | [[A-ANTI-022|Multiverse / observer-selection undercuts design]]; [[C-001|God exists]] |
+| [[R-042|R-042 — Observer-selection and ensembles blunt chance-vs-design framing]] | R09 | anti | [[A-PRO-025|Fine-tuning raises theism over chance]]; [[C-A002|No classical God]] |
+| [[R-043|R-043 — Fine-tuning underdetermines classical personal God]] | R09 | anti | [[A-PRO-026|Teleological fine-tuning complements skeptical-theism spine]]; [[C-A002|No classical God]]; [[C-002|God of the Bible]] |
+| [[R-044|R-044 — Teleology still supplies positive theism-lift without Proven claim]] | R09 | pro | [[A-ANTI-023|Fine-tuning ≠ classical personal God]]; [[C-001|God exists]] |
+| [[R-045|R-045 — Free-will defense does not cover pre-human animal pain]] | R10 | anti | [[A-PRO-016|Free-will defense]]; [[A-ANTI-024|Deep-time animal suffering]]; [[C-A002|No classical God]] |
+| [[R-046|R-046 — Nomic regularity goods are a live reply not automatic Refutation]] | R10 | pro | [[A-ANTI-024|Deep-time animal suffering]]; [[C-001|God exists]] |
+| [[R-047|R-047 — Rowe plus deep time still pressures perfect goodness]] | R10 | anti | [[A-PRO-027|Evolutionary theodicy / nomic regularity]]; [[C-A002|No classical God]] |
+| [[R-048|R-048 — Skeptical theism blocks Refutation from animal pain alone]] | R10 | pro | [[A-ANTI-025|Evolutionary pain makes perfect goodness harder]]; [[C-001|God exists]] |
+| [[R-049|R-049 — Skeptical creed dating undercuts pure late-legend Easter]] | R11 | pro | [[A-ANTI-026|Early creed ≠ empty tomb]]; [[C-006|Resurrection]] |
+| [[R-050|R-050 — Creed window still not empty-tomb proof]] | R11 | anti | [[A-PRO-029|Pre-Pauline creed within years]]; [[A-PRO-030|burial residues]]; [[C-A001|No resurrection]] |
+| [[R-051|R-051 — Burial and appearance residues still constrain pure vision slogans]] | R11 | pro | [[A-ANTI-026|Early creed ≠ empty tomb]]; [[A-ANTI-016|Lüdemann grief-vision]]; [[C-006|Resurrection]] |
+| [[R-052|R-052 — Earliness does not cancel Humean miracle priors]] | R11 | anti | [[A-PRO-029|Pre-Pauline creed within years]]; [[C-A001|No resurrection]] |
+| [[R-053|R-053 — Bereavement patterns illuminate appearances without a risen body]] | R12 | anti | [[A-PRO-031|Group appearances + James/Paul]]; [[A-PRO-020|Appearances plus burial residues]]; [[C-A001|No resurrection]] |
+| [[R-054|R-054 — Cognitive defaults make group conviction non-miraculous]] | R12 | anti | [[A-PRO-031|Group appearances + James/Paul]]; [[C-A001|No resurrection]] |
+| [[R-055|R-055 — James and Paul still strain private-grief reduction]] | R12 | pro | [[A-ANTI-028|Bereavement visions]]; [[C-006|Resurrection]] |
+| [[R-056|R-056 — Apparition analogies illuminate without identifying Easter]] | R12 | pro | [[A-ANTI-028|Bereavement visions]]; [[A-ANTI-029|CSR defaults]]; [[C-006|Resurrection]] |
+| [[R-057|R-057 — Dyadic devotion undercuts Constantinian-invention slogan]] | R13 | pro | [[A-ANTI-030|Cultic devotion ≠ Nicene ontology]]; [[C-003|Son / atonement]] |
+| [[R-058|R-058 — Early cult remains compatible with post-Easter exaltation]] | R13 | anti | [[A-PRO-033|Dyadic devotion early]]; [[C-A003|Later Nicene construction]] |
+| [[R-059|R-059 — Divine-identity patterns exceed thin angel analogies]] | R13 | pro | [[A-ANTI-031|Atonement/homoousios still later]]; [[C-003|Son / atonement]] |
+| [[R-060|R-060 — Atonement metaphysics and homoousios still not secured by Kyrios cult]] | R13 | anti | [[A-PRO-034|Divine-identity without needing Nicaea]]; [[C-A003|Later Nicene construction]] |
+| [[R-061|R-061 — Resurrection exaltation explains rapid Kyrios rise without Nicene self-claim]] | R14 | anti | [[A-PRO-035|Speed and Jewish constraint]]; [[C-A003|Later Nicene construction]] |
+| [[R-062|R-062 — Jewish-matrix speed undercuts delayed Gentile-deification as whole story]] | R14 | pro | [[A-ANTI-033|Prophet→Messiah→divine Lord construction]]; [[C-003|Son / atonement]] |
+| [[R-063|R-063 — Finished ontological package remains later despite early devotion]] | R14 | anti | [[A-PRO-036|Language development ≠ invention of worship]]; [[C-A003|Later Nicene construction]] |
+| [[R-064|R-064 — Distinguishing development from invention still leaves C-003 Strengthened not Proven]] | R14 | pro | [[A-ANTI-032|Exaltation explains rapid rise]]; [[C-003|Son / atonement]] |
+| [[R-065|R-065 — Walton herem rhetoric complicates genocide slogans]] | R15 | pro | [[A-ANTI-034|Canonical lethal divine warfare remains]]; [[C-002|God of the Bible]] |
+| [[R-066|R-066 — Hess specialization answers Copan-primary limit in spirit]] | R15 | pro | [[A-ANTI-035|Genre-hyperbole readings contested]]; [[C-002|God of the Bible]] |
+| [[R-067|R-067 — Reframing does not erase lethal divine warfare depictions]] | R15 | anti | [[A-PRO-037|Herem as identity/removal rhetoric]]; [[C-002|God of the Bible]] |
+| [[R-068|R-068 — Contested genre readings block Neutral-decisive Walton cure]] | R15 | anti | [[A-PRO-038|Specialized warfare ethics beyond popular apologetics]]; [[C-002|God of the Bible]] |
+| [[R-069|R-069 — Niditch spectrum shows canon war tension is internal]] | R16 | anti | [[A-PRO-039|Trajectory and christocentric readings still available]]; [[C-002|God of the Bible]] |
+| [[R-070|R-070 — Collins violence hermeneutics extends moral lawgiver wedge]] | R16 | anti | [[A-PRO-040|Distinction preserves Strengthened C-001]]; [[C-002|God of the Bible]] |
+| [[R-071|R-071 — Weakened Soft Joint is not Refuted biblical theism]] | R16 | pro | [[A-ANTI-036|Critical OT war literature shows irreducible tension]]; [[C-002|God of the Bible]] |
+| [[R-072|R-072 — Critical violence literature does not Refute bare theism]] | R16 | pro | [[A-ANTI-037|Moral lawgiver still not herem-commanding portrayals]]; [[C-001|God exists]] |
+| [[R-073|R-073 — Oppy bar is not a Refutation machine]] | R17 | pro | [[A-ANTI-038|Oppy-style success criteria]]; [[C-001|God exists]]; [[C-A002|No classical God]] |
+| [[R-074|R-074 — Plantinga de jure win is not de facto Proven]] | R17 | anti | [[A-PRO-041|Plantinga de jure objections fail]]; [[C-001|God exists]] |
+| [[R-075|R-075 — Attribute gap does not erase Strengthened theism]] | R17 | pro | [[A-ANTI-039|Classical personal God of stack not established]]; [[C-001|God exists]] |
+| [[R-076|R-076 — Cumulative case still fails Oppy consensus]] | R17 | anti | [[A-PRO-042|Cumulative natural theology Strengthens without Oppy bar]]; [[C-A002|No classical theistic God]] |
+| [[R-077|R-077 — Anti package blocks Proven without erasing Pro mirrors]] | R18 | pro | [[A-ANTI-040|Dual Anti mirrors + Weakened biblical ID]]; [[C-001|God exists]]; [[C-006|Resurrection]]; [[C-003|Son / atonement]] |
+| [[R-078|R-078 — Coherence is not a Proven certificate]] | R18 | anti | [[A-PRO-043|Cumulative stack still coherent]]; [[C-A002|No classical God]]; [[C-A001|No resurrection]]; [[C-A003|Later Nicene construction]] |
+| [[R-079|R-079 — Flat probability is not an Anti victory lap]] | R18 | pro | [[A-ANTI-041|Unresolved hinges → ~52%]]; [[Probability of Christianity]] |
+| [[R-080|R-080 — Soft joint still keeps full stack unsettled]] | R18 | anti | [[A-PRO-044|Soft joint C-002 Weakened without collapsing C-001]]; [[C-002|God of the Bible]] |
 
 ## Source Challenges
 

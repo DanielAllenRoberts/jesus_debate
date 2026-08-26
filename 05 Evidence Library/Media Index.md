@@ -140,7 +140,47 @@ Folders: `Sources/` · `Source Challenges/` · [[Human Inbox]]
 | S-122 — Disturbing Divine Behavior (Seibert) | book | Seibert Disturbing Divine Behavior | anti | unreviewed | [[S-122 - Disturbing Divine Behavior (Seibert)]] |
 | S-123 — Direction review Seibert solution costs | article | Direction Seibert review | both | unreviewed | [[S-123 - Direction review Seibert solution costs]] |
 | S-124 — Moral Arguments for God (SEP deepened) | article | SEP Moral Arguments deepened | both | unreviewed | [[S-124 - Moral Arguments for God (SEP deepened)]] |
+| S-125 — Fine-Tuning (SEP) | article | Fine-Tuning (SEP) | both | unreviewed | [[S-125 - Fine-Tuning (SEP)]] |
+| S-126 — 1000-Word Philosophy Fine-Tuning Argument | article | 1000-Word Philosophy Fine-Tuning Argument | pro | unreviewed | [[S-126 - 1000-Word Philosophy Fine-Tuning Argument]] |
+| S-127 — Teleological Arguments (SEP) | article | Teleological Arguments (SEP) | both | unreviewed | [[S-127 - Teleological Arguments (SEP)]] |
+| S-128 — Cosmology and Theology (SEP) | article | Cosmology and Theology (SEP) | both | unreviewed | [[S-128 - Cosmology and Theology (SEP)]] |
+| S-129 — Problem of Evil (SEP) | article | Problem of Evil (SEP) | both | unreviewed | [[S-129 - Problem of Evil (SEP)]] |
+| S-130 — Evidential Problem of Evil (IEP) | article | Evidential Problem of Evil (IEP) | anti | unreviewed | [[S-130 - Evidential Problem of Evil (IEP)]] |
+| S-131 — Nature Red in Tooth and Claw (Murray) | book | Nature Red in Tooth and Claw (Murray) | pro | unreviewed | [[S-131 - Nature Red in Tooth and Claw (Murray)]] |
+| S-132 — NDPR review of Murray Nature Red in Tooth and Claw | article | NDPR review of Murray Nature Red in Tooth and Claw | anti | unreviewed | [[S-132 - NDPR review of Murray Nature Red in Tooth and Claw]] |
+| S-133 — How Jesus Became God early creed (Ehrman R11) | book | How Jesus Became God early creed (Ehrman R11) | both | unreviewed | [[S-133 - How Jesus Became God early creed (Ehrman R11)]] |
+| S-134 — MacGregor 1 Cor 15 creed dating (JETS) | article | MacGregor 1 Cor 15 creed dating (JETS) | pro | unreviewed | [[S-134 - MacGregor 1 Cor 15 creed dating (JETS)]] |
+| S-135 — Habermas on Allison resurrection skepticism | article | Habermas on Allison resurrection skepticism | pro | unreviewed | [[S-135 - Habermas on Allison resurrection skepticism]] |
+| S-136 — Evidential value of 1 Cor 15 (CrossExamined) | article | Evidential value of 1 Cor 15 (CrossExamined) | pro | unreviewed | [[S-136 - Evidential value of 1 Cor 15 (CrossExamined)]] |
+| S-137 — Kamp SED bereavement experiences (Schizophrenia Bulletin) | article | Kamp SED bereavement experiences (Schizophrenia Bulletin) | both | unreviewed | [[S-137 - Kamp SED bereavement experiences (Schizophrenia Bulletin)]] |
+| S-138 — Evolutionary Approaches to Religion (SEP CSR) | article | Evolutionary Approaches to Religion (SEP CSR) | both | unreviewed | [[S-138 - Evolutionary Approaches to Religion (SEP CSR)]] |
+| S-139 — Habermas/Bergeron clinical review of psychiatric Easter h… | article | Habermas/Bergeron clinical review of psychiatric Easter hypotheses | pro | unreviewed | [[S-139 - Habermas Bergeron clinical review psychiatric hypotheses]] |
+| S-140 — Allison appearances and apparitions survey (Google Books) | book | Allison appearances and apparitions survey (Google Books) | both | unreviewed | [[S-140 - Allison appearances and apparitions survey (Google Books)]] |
+| S-141 — Bauckham on Hurtado (Hurtado blog) | article | Bauckham on Hurtado (Hurtado blog R13) | pro | unreviewed | [[S-141 - Bauckham on Hurtado (Hurtado blog)]] |
+| S-142 — The origins of the worship of Christ (Themelios / Hurtado) | article | The origins of the worship of Christ (Themelios / Hurtado) | pro | unreviewed | [[S-142 - Origins of the Worship of Christ (Themelios Hurtado)]] |
+| S-143 — Ancient Jewish Monotheism and Early Christian Jesus-Devot… | book | Ancient Jewish Monotheism and Early Christian Jesus-Devotion (Hurtado, Baylor) | pro | unreviewed | [[S-143 - Ancient Jewish Monotheism and Early Christian Jesus-Devotion (Hurtado)]] |
+| S-144 — How on Earth Did Jesus Become a God? (Hurtado, Eerdmans) | book | How on Earth Did Jesus Become a God? (Hurtado, Eerdmans R13) | pro | unreviewed | [[S-144 - How on Earth Did Jesus Become a God (Hurtado)]] |
+| S-145 — Christology in the Making (Dunn) | book | Christology in the Making (Dunn) | anti | unreviewed | [[S-145 - Christology in the Making (Dunn)]] |
+| S-146 — From Jewish Prophet to Gentile God (Casey) | book | From Jewish Prophet to Gentile God (Casey) | anti | unreviewed | [[S-146 - From Jewish Prophet to Gentile God (Casey)]] |
+| S-147 — How Jesus Became God (Ehrman, HarperCollins R14) | book | How Jesus Became God (Ehrman, HarperCollins R14) | anti | unreviewed | [[S-147 - How Jesus Became God (Ehrman HarperCollins)]] |
+| S-148 — Dunn/Hurtado dialogue on Jesus-veneration (Hurtado blog) | article | Dunn/Hurtado dialogue on Jesus-veneration (Hurtado blog) | both | unreviewed | [[S-148 - Dunn Hurtado dialogue on Jesus-veneration]] |
+| S-149 — The Lost World of the Israelite Conquest (Walton) | book | The Lost World of the Israelite Conquest (Walton) | pro | unreviewed | [[S-149 - Lost World of the Israelite Conquest (Walton)]] |
+| S-150 — IVP listing: Lost World of the Israelite Conquest | webpage | IVP listing: Lost World of the Israelite Conquest | pro | unreviewed | [[S-150 - IVP Lost World of the Israelite Conquest listing]] |
+| S-151 — Hess: War in the Hebrew Bible (overview) | book_chapter | Hess: War in the Hebrew Bible (overview) | pro | unreviewed | [[S-151 - Hess War in the Hebrew Bible overview]] |
+| S-152 — Themelios review of Walton Lost World Conquest | article | Themelios review of Walton Lost World Conquest | both | unreviewed | [[S-152 - Themelios review Walton Lost World Conquest]] |
+| S-153 — War in the Hebrew Bible (Niditch) | book | War in the Hebrew Bible (Niditch) | anti | unreviewed | [[S-153 - War in the Hebrew Bible (Niditch)]] |
+| S-154 — Does the Bible Justify Violence? (Collins) | book | Does the Bible Justify Violence? (Collins) | anti | unreviewed | [[S-154 - Does the Bible Justify Violence (Collins)]] |
+| S-155 — Zeal of Phinehas / Bible and legitimation of violence (Co… | article | Zeal of Phinehas / Bible and legitimation of violence (Collins JBL) | anti | unreviewed | [[S-155 - Collins Zeal of Phinehas JBL]] |
+| S-156 — Direction: Introducing Disturbing Divine Behavior | article | Direction: Introducing Disturbing Divine Behavior | both | unreviewed | [[S-156 - Direction Introducing Disturbing Divine Behavior]] |
+| S-157 — NDPR review: Arguing about Gods | article | NDPR review: Arguing about Gods | both | unreviewed | [[S-157 - NDPR review Arguing about Gods]] |
+| S-158 — PhilPapers record: Arguing about Gods | article | PhilPapers record: Arguing about Gods | anti | unreviewed | [[S-158 - PhilPapers Arguing about Gods]] |
+| S-159 — Faith Without Reasons? (WCB review) | article | Faith Without Reasons? (WCB review) | pro | unreviewed | [[S-159 - Faith Without Reasons WCB review]] |
+| S-160 — Religion and Epistemology (SEP) | article | Religion and Epistemology (SEP) | both | unreviewed | [[S-160 - Religion and Epistemology (SEP)]] |
+| S-161 — Philosophy of Religion (SEP) | article | Philosophy of Religion (SEP) | both | unreviewed | [[S-161 - Philosophy of Religion (SEP)]] |
+| S-162 — Faith (SEP) | article | Faith (SEP) | both | unreviewed | [[S-162 - Faith (SEP)]] |
+| S-163 — Philosophy of Religion (IEP) | article | Philosophy of Religion (IEP) | both | unreviewed | [[S-163 - Philosophy of Religion (IEP)]] |
+| S-164 — Trinity (SEP) | article | Trinity (SEP) | both | unreviewed | [[S-164 - Trinity (SEP)]] |
 
 ## Source Challenges Index
 
-[[SC-001|SC-001 — Challenge to S-047 minimal facts consensus rhetoric]] · [[SC-002|SC-002 — Challenge to S-016 as Foundation-grade philosophy]] · [[SC-003|SC-003 — Challenge to S-006 as primary historical scholarship]] · [[SC-004|SC-004 — Challenge to S-076 overclaiming universal post-70 consensus]] · [[SC-005|SC-005 — Challenge to one-sided use of S-049]] · [[SC-006|SC-006 — Limit S-104 as primary]] · [[SC-007|SC-007]] · [[SC-008|SC-008]] · [[SC-009|SC-009]] · [[SC-010|SC-010]] · [[SC-011|SC-011]]
+[[SC-001|SC-001 — Challenge to S-047 minimal facts consensus rhetoric]] · [[SC-002|SC-002 — Challenge to S-016 as Foundation-grade philosophy]] · [[SC-003|SC-003 — Challenge to S-006 as primary historical scholarship]] · [[SC-004|SC-004 — Challenge to S-076 overclaiming universal post-70 consensus]] · [[SC-005|SC-005 — Challenge to one-sided use of S-049]] · [[SC-006|SC-006 — Limit S-104 as primary]] · [[SC-007|SC-007]] · [[SC-008|SC-008]] · [[SC-009|SC-009]] · [[SC-010|SC-010]] · [[SC-011|SC-011]] · [[SC-012]] · [[SC-013]] · [[SC-014]] · [[SC-015]] · [[SC-016]] · [[SC-017]] · [[SC-018]] · [[SC-019]] · [[SC-020]] · [[SC-021]]

@@ -34,3 +34,7 @@ Template: [[T - Claim]] · Base: [[Claims.base]] · Graph: [[Debate Graph]]
 ## Scoreboard snapshot (after R08)
 
 See [[Claim Scores]] · [[Probability of Christianity]] (**52.0%**) · [[Cycles R04-R08 complete]] · [[Thinking Logs Index]]
+
+## After R09–R18
+
+R09–R18 confirmed existing statuses (no status flips). C-002 Weakened held.

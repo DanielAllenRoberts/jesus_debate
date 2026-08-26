@@ -16,8 +16,8 @@ aliases: [Probability]
 | **Probability** | **52.0%** |
 | Prior | 50.0% (agnostic start) |
 | Clamp | 1.0% – 99.0% |
-| Last Score Event | [[SE-019|SE-019: R08 Final Contested locks]] |
-| Round | R08 complete |
+| Last Score Event | [[SE-039|SE-039: R18 Final Contested Strengthened locks]] |
+| Round | R18 complete |
 
 ## Update log
 
@@ -42,13 +42,33 @@ aliases: [Probability]
 | [[SE-016|SE-016: R07 Christology confirm (0)]] | R07 | 0 | 52.0 | C-003 & C-A003 both Strengthened confirm |
 | [[SE-017|SE-017: R07 remainder (0)]] | R07 | 0 | 52.0 | Board confirm |
 | [[SE-018|SE-018: C-002 Weakened confirm (0)]] | R08 | 0 | 52.0 | No Contested recovery; [[SC-011|SC-011]] upheld |
-| [[SE-019|SE-019: R08 Final locks (0)]] | R08 | 0 | **52.0** | End-cycle lock; no Proven/Refuted |
+| [[SE-019|SE-019: R08 Final locks (0)]] | R08 | 0 | 52.0 | End-cycle lock; no Proven/Refuted |
+| [[SE-020|SE-020: C-001 confirm (0)]] | R09 | 0 | 52.0 | Fine-tuning deepen; dual God Pro confirm |
+| [[SE-021|SE-021: C-A002 confirm (0)]] | R09 | 0 | 52.0 | Multiverse mirror; dual God Anti confirm |
+| [[SE-022|SE-022: C-A002 confirm (0)]] | R10 | 0 | 52.0 | Deep-time suffering deepen |
+| [[SE-023|SE-023: C-001 confirm (0)]] | R10 | 0 | 52.0 | Dual God mirrors hold |
+| [[SE-024|SE-024: C-006 confirm (0)]] | R11 | 0 | 52.0 | Creed window deepen |
+| [[SE-025|SE-025: Easter dual lock (0)]] | R11 | 0 | 52.0 | Dual Easter mirrors |
+| [[SE-026|SE-026: C-A001 confirm (0)]] | R12 | 0 | 52.0 | SED/CSR deepen |
+| [[SE-027|SE-027: Easter dual lock (0)]] | R12 | 0 | 52.0 | Dual Easter mirrors |
+| [[SE-028|SE-028: C-003 confirm (0)]] | R13 | 0 | 52.0 | Early devotion deepen |
+| [[SE-029|SE-029: Christology dual (0)]] | R13 | 0 | 52.0 | Dual christology confirm |
+| [[SE-030|SE-030: C-A003 confirm (0)]] | R14 | 0 | 52.0 | Exaltation arc deepen |
+| [[SE-031|SE-031: Christology lock (0)]] | R14 | 0 | 52.0 | Dual christology lock |
+| [[SE-032|SE-032: C-002 Weakened confirm (0)]] | R15 | 0 | 52.0 | Walton Contested recovery denied |
+| [[SE-033|SE-033: R15 remainder (0)]] | R15 | 0 | 52.0 | Remainder locks |
+| [[SE-034|SE-034: C-002 Weakened confirm (0)]] | R16 | 0 | 52.0 | Critical violence hold |
+| [[SE-035|SE-035: R16 remainder (0)]] | R16 | 0 | 52.0 | Soft joint remains |
+| [[SE-036|SE-036: C-001 confirm (0)]] | R17 | 0 | 52.0 | Plantinga/Oppy dialectic |
+| [[SE-037|SE-037: C-A002 confirm (0)]] | R17 | 0 | 52.0 | Natural theology stalemate lock |
+| [[SE-038|SE-038: Hottest confirms (0)]] | R18 | 0 | 52.0 | Multi-claim end-cycle confirm |
+| [[SE-039|SE-039: R18 Final locks (0)]] | R18 | 0 | **52.0** | End-cycle lock; no Proven/Refuted |
 
 ## Trajectory
 
-**50.0% → 53.25% (R01–R03) → 51.25% (R04) → 53.25% (R05) → 52.0% (R06–R08).**  
-Net after eight rounds: **+2.0** from agnostic start. Dual Strengthened mirrors on God and Easter; biblical identification remains Weakened; no Proven/Refuted.
+**50.0% → 53.25% (R01–R03) → 51.25% (R04) → 53.25% (R05) → 52.0% (R06–R18).**  
+Net after eighteen rounds: **+2.0** from agnostic start. Dual Strengthened mirrors on God, Easter, and christology; biblical identification remains Weakened; no Proven/Refuted.
 
 ## Related
 
-- [[Score History]] · [[Claim Scores]] · [[Scoring Rules]] · [[Cycles R04-R08 complete]] · [[Thinking Logs Index]]
+- [[Score History]] · [[Claim Scores]] · [[Scoring Rules]] · [[Cycles R09-R18 complete]] · [[Thinking Logs Index]]
