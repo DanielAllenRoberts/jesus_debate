@@ -30,6 +30,6 @@ aliases:
 
 | Status | Submission |
 |--------|------------|
-| waiting (optional) | [[H-001 - Bonnet Thoughts Christianity Origins|H-001 Bonnet Thoughts]] — agents not required to cite |
+| engaged (optional) | [[H-001 - Bonnet Thoughts Christianity Origins|H-001 Bonnet Thoughts]] — pro response: [[Pro Response - Bonnet Thoughts Where Did Christianity Come From]] |
 
 Folder: `05 Evidence Library/Human Inbox/`

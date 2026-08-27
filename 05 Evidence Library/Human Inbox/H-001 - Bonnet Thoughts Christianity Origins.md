@@ -5,18 +5,19 @@ tags:
   - evidence
 type: human_submission
 id: H-001
-status: waiting
+status: engaged
 side_hint: anti
 media_type: video
 promoted_source: 
 round_noted: R01
 optional: true
+pro_response: "[[Pro Response - Bonnet Thoughts Where Did Christianity Come From]]"
 ---
 
 # H-001 — Where Did Christianity Come From (Bonnet Thoughts)
 
 > [!note] Optional human drop
-> Filed for interest only. Agents are **not required** to cite this in R01. May be promoted later if a team chooses to engage it.
+> Filed for interest only. Agents are **not required** to cite this in formal scoring. A full pro-side reading response is available: [[Pro Response - Bonnet Thoughts Where Did Christianity Come From]].
 
 ## Source
 
